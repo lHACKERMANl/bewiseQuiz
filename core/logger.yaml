@@ -17,7 +17,7 @@ handlers:
 
   console:
     class: logging.StreamHandler
-    level: DEBUG
+    level: CRITICAL
     formatter: simple
     
 loggers:

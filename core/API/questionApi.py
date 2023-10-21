@@ -1,6 +1,5 @@
 from fastapi import APIRouter, HTTPException, routing
-from Common.settings import settings
-from Repositories.InputData import InputData
+from Models.InputData import InputData
 from Services.questionRequest import QuestionService
 
 
@@ -12,5 +11,7 @@ questionService = QuestionService()
 async def sendQuestionNum(question_data: InputData):
     question_num = str(question_data.question_num)
     questions = await questionService.getQuestions(question_num)
+    if questions:
+        await questionService.saveQuestions(questions)
     return {"questions":f"{questions}"}
 
