@@ -1,5 +1,0 @@
-fastapi
-unicorn
-uvicorn
-pymongo
-redis
