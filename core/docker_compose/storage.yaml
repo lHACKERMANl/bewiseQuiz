@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6-jammy
+    ports:
+      - '27017:27017'
+    container_name: mongoContainer
+    volumes:
+      - dbdata: /data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=123
+    networks:
+        - backend
+  volumes:
+    - dbdata:
+
+
+networks:
+    backend:
+      driver: bridge

@@ -1,0 +1,25 @@
+[tool.poetry]
+name="bewise"
+version="0.0.1"
+description=""
+authors=["AviTo <maysonlive1@gmail.com>"]
+readme="README.md"
+packages= [{include = "bewise"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "*"
+unicorn = "*"
+uvicorn = "*"
+pymongo = "*"
+redis = "*"
+pydantic = "^2.4.2"
+pydantic-settings = "^2.0.3"
+django-environ = "*"
+httpx = "*"
+pyyaml = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+

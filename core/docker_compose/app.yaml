@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  fastapi:
+    build: ..
+    command: uvicorn --factory API.app:create_app --reload --host 0.0.0.0 --port 8000
+    volumes:
+      - ..:/code
+    ports:
+      - '8000:8000'
+    container_name: fastapiapp
+    networks:
+        - backend
+
+networks:
+    backend:
+      driver: bridge

@@ -1,0 +1,28 @@
+version: 1
+formatters:
+  simple:
+    format: "%(asctime)s [%(filename)s:%(lineno)d] %(levelname)s: %(message)s"
+
+handlers:
+  file_handler:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: simple
+    filename: my_log.log
+
+  console_handler:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: simple
+    
+loggers:
+  debugging:
+    level: DEBUG
+    handlers: [file_handler, console_handler, console]  
+    propagate: no
+
