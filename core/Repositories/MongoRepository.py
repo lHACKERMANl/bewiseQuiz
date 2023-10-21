@@ -26,6 +26,7 @@ class MongoRepository(IRepository):
     async def isQuestionExists(self, questionId):
         existing = self.collection.find_one({"questionId":questionId})
         if existing is not None:
+            logger.info(f'question {questionId} is existing')
             return True
         else:
             return False

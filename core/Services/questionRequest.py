@@ -21,14 +21,13 @@ class QuestionService:
                 return None
 
     async def saveQuestions(self, questions):
+        lastQuestion = {}
         for question in questions:
             if not await repo.isQuestionExists(question["id"]):
                 saveId = await repo.saveData(question)
+                lastQuestion = question
                 logger.debug(f'saveId: {saveId}')
             else:
-                logger.debug(f'question {question["id"]} is existing')
                 newQuestion = await self.getQuestions(1)
                 await self.saveQuestions(newQuestion)
-
-
-
+        return lastQuestion

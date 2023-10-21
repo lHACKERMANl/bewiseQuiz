@@ -203,3 +203,736 @@
 2023-10-21 17:45:47,817 [questionRequest.py:27] DEBUG: saveId: 65340e4b8e38685803245ebb
 2023-10-21 17:45:47,818 [MongoRepository.py:20] INFO: question 182834 was saved
 2023-10-21 17:45:47,818 [questionRequest.py:27] DEBUG: saveId: 65340e4b8e38685803245ebc
+2023-10-21 17:53:55,116 [questionRequest.py:17] DEBUG: Success: []
+2023-10-21 17:59:20,609 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:00:36,386 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:01:12,811 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:01:23,872 [questionRequest.py:17] DEBUG: Success: [{'id': 198279, 'answer': 'Africa', 'question': 'Weezer remade a No. 1 song by Toto that says, "I bless the rains down in" this  place', 'value': 800, 'airdate': '2018-11-22T20:00:00.000Z', 'created_at': '2022-12-30T21:42:44.499Z', 'updated_at': '2022-12-30T21:42:44.499Z', 'category_id': 24853, 'game_id': 6155, 'invalid_count': None, 'category': {'id': 24853, 'title': 'on the 2018 billboard charts', 'created_at': '2022-12-30T21:42:43.418Z', 'updated_at': '2022-12-30T21:42:43.418Z', 'clues_count': 5}}]
+2023-10-21 18:01:23,879 [MongoRepository.py:20] INFO: question 198279 was saved
+2023-10-21 18:01:23,879 [questionRequest.py:29] DEBUG: saveId: 653411f34cbd51205fec761a
+2023-10-21 18:01:47,095 [questionRequest.py:17] DEBUG: Success: []
+2023-10-21 18:02:17,820 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:02:34,548 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:02:37,970 [questionRequest.py:17] DEBUG: Success: []
+2023-10-21 18:03:20,833 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:03:22,481 [questionRequest.py:17] DEBUG: Success: []
+2023-10-21 18:03:26,432 [questionRequest.py:17] DEBUG: Success: [{'id': 196857, 'answer': 'Beatrice', 'question': 'In "Much Ado About Nothing", she & Benedick carry on a "merry war"', 'value': 1000, 'airdate': '2019-01-30T20:00:00.000Z', 'created_at': '2022-12-30T21:40:51.308Z', 'updated_at': '2022-12-30T21:40:51.308Z', 'category_id': 24642, 'game_id': 6204, 'invalid_count': None, 'category': {'id': 24642, 'title': 'brushed up your shakespeare', 'created_at': '2022-12-30T21:40:49.519Z', 'updated_at': '2022-12-30T21:40:49.519Z', 'clues_count': 5}}, {'id': 175515, 'answer': 'Tad', 'question': "That's Abraham Lincoln looking at a book with son Thomas, who was better known by this three-letter nickname", 'value': 600, 'airdate': '2016-04-05T19:00:00.000Z', 'created_at': '2022-12-30T21:11:29.537Z', 'updated_at': '2022-12-30T21:11:29.537Z', 'category_id': 6730, 'game_id': 5233, 'invalid_count': None, 'category': {'id': 6730, 'title': "all the presidents' children", 'created_at': '2022-12-30T19:08:55.777Z', 'updated_at': '2022-12-30T19:08:55.777Z', 'clues_count': 15}}]
+2023-10-21 18:03:26,446 [MongoRepository.py:20] INFO: question 196857 was saved
+2023-10-21 18:03:26,446 [questionRequest.py:29] DEBUG: saveId: 6534126e056c177bfb5ba732
+2023-10-21 18:03:26,448 [MongoRepository.py:20] INFO: question 175515 was saved
+2023-10-21 18:03:26,448 [questionRequest.py:29] DEBUG: saveId: 6534126e056c177bfb5ba733
+2023-10-21 18:03:42,104 [settings.py:47] DEBUG: debug mode activated
+2023-10-21 18:03:43,086 [questionRequest.py:17] DEBUG: Success: [{'id': 56072, 'answer': 'P-E-S-S-I-M-I-S-T', 'question': "It's the opposite of an optimist", 'value': 100, 'airdate': '1997-11-11T20:00:00.000Z', 'created_at': '2022-12-30T19:01:34.316Z', 'updated_at': '2022-12-30T19:01:34.316Z', 'category_id': 4634, 'game_id': 1268, 'invalid_count': None, 'category': {'id': 4634, 'title': 'the dreaded spelling category', 'created_at': '2022-12-30T19:01:34.274Z', 'updated_at': '2022-12-30T19:01:34.274Z', 'clues_count': 19}}, {'id': 107871, 'answer': '<i>Network</i>', 'question': '1976:"I\'m as mad as hell, and I\'m not going to take this anymore!"', 'value': 600, 'airdate': '2006-03-24T19:00:00.000Z', 'created_at': '2022-12-30T19:37:22.593Z', 'updated_at': '2022-12-30T19:37:22.593Z', 'category_id': 11717, 'game_id': 858, 'invalid_count': None, 'category': {'id': 11717, 'title': 'quotable cinema', 'created_at': '2022-12-30T19:37:21.731Z', 'updated_at': '2022-12-30T19:37:21.731Z', 'clues_count': 10}}]
+2023-10-21 18:03:43,099 [MongoRepository.py:20] INFO: question 56072 was saved
+2023-10-21 18:03:43,099 [questionRequest.py:29] DEBUG: saveId: 6534127f5d31b07bdc908fff
+2023-10-21 18:03:43,100 [MongoRepository.py:20] INFO: question 107871 was saved
+2023-10-21 18:03:43,101 [questionRequest.py:29] DEBUG: saveId: 6534127f5d31b07bdc909000
+2023-10-21 18:03:52,852 [questionRequest.py:17] DEBUG: Success: [{'id': 74590, 'answer': 'Elton John', 'question': '"I remember when rock was young" is the first line of this singer\'s hit "Crocodile Rock"', 'value': 200, 'airdate': '2001-02-06T20:00:00.000Z', 'created_at': '2022-12-30T19:10:30.921Z', 'updated_at': '2022-12-30T19:10:30.921Z', 'category_id': 5694, 'game_id': 3052, 'invalid_count': None, 'category': {'id': 5694, 'title': 'rock & roll jeopardy!', 'created_at': '2022-12-30T19:05:15.972Z', 'updated_at': '2022-12-30T19:05:15.972Z', 'clues_count': 20}}, {'id': 162954, 'answer': 'klutz', 'question': "From Yiddish, it's a clumsy person", 'value': 800, 'airdate': '2014-02-27T20:00:00.000Z', 'created_at': '2022-12-30T20:53:40.468Z', 'updated_at': '2022-12-30T20:53:40.468Z', 'category_id': 338, 'game_id': 4436, 'invalid_count': None, 'category': {'id': 338, 'title': '5-letter words', 'created_at': '2022-12-30T18:38:26.546Z', 'updated_at': '2022-12-30T18:38:26.546Z', 'clues_count': 183}}]
+2023-10-21 18:03:52,855 [MongoRepository.py:20] INFO: question 74590 was saved
+2023-10-21 18:03:52,855 [questionRequest.py:29] DEBUG: saveId: 653412885d31b07bdc909001
+2023-10-21 18:03:52,857 [MongoRepository.py:20] INFO: question 162954 was saved
+2023-10-21 18:03:52,857 [questionRequest.py:29] DEBUG: saveId: 653412885d31b07bdc909002
+2023-10-21 18:45:23,446 [questionRequest.py:17] DEBUG: Success: [{'id': 137663, 'answer': 'Bobby Fischer', 'question': 'This late champ patented a now-standard chess clock that gives a player added time after each move', 'value': 600, 'airdate': '2009-12-01T20:00:00.000Z', 'created_at': '2022-12-30T20:18:26.862Z', 'updated_at': '2022-12-30T20:18:26.862Z', 'category_id': 15849, 'game_id': 3232, 'invalid_count': None, 'category': {'id': 15849, 'title': 'chess', 'created_at': '2022-12-30T20:18:26.019Z', 'updated_at': '2022-12-30T20:18:26.019Z', 'clues_count': 5}}, {'id': 194519, 'answer': 'the aisle', 'question': "It's the walkway between rows of airplane seats", 'value': 200, 'airdate': '2019-05-22T19:00:00.000Z', 'created_at': '2022-12-30T21:37:42.002Z', 'updated_at': '2022-12-30T21:37:42.002Z', 'category_id': 24320, 'game_id': 6291, 'invalid_count': None, 'category': {'id': 24320, 'title': 'starts with 2 vowels, ends with one', 'created_at': '2022-12-30T21:37:41.867Z', 'updated_at': '2022-12-30T21:37:41.867Z', 'clues_count': 5}}, {'id': 112304, 'answer': 'Budapest', 'question': 'Andrassy is the luxury shopping street of this capital of Hungary', 'value': 400, 'airdate': '2007-07-16T19:00:00.000Z', 'created_at': '2022-12-30T19:43:48.500Z', 'updated_at': '2022-12-30T19:43:48.500Z', 'category_id': 289, 'game_id': 1971, 'invalid_count': None, 'category': {'id': 289, 'title': 'potpourri', 'created_at': '2022-12-30T18:38:20.090Z', 'updated_at': '2022-12-30T18:38:20.090Z', 'clues_count': 630}}, {'id': 63343, 'answer': 'Madonna', 'question': 'In 1990 her "Justify My Love" became the first video by a major star to be banned by MTV', 'value': 400, 'airdate': '1998-10-21T19:00:00.000Z', 'created_at': '2022-12-30T19:05:03.542Z', 'updated_at': '2022-12-30T19:05:03.542Z', 'category_id': 5622, 'game_id': 846, 'invalid_count': None, 'category': {'id': 5622, 'title': 'rock singers', 'created_at': '2022-12-30T19:05:03.319Z', 'updated_at': '2022-12-30T19:05:03.319Z', 'clues_count': 5}}, {'id': 132511, 'answer': '(Fidel) Castro', 'question': 'Among "Reasons" this world leader "Is Retiring":"He has accepted the role of Dr. Ramon Vazquez on \'General Hospital"\'', 'value': 1000, 'airdate': '2008-09-09T19:00:00.000Z', 'created_at': '2022-12-30T20:11:29.931Z', 'updated_at': '2022-12-30T20:11:29.931Z', 'category_id': 15073, 'game_id': 2673, 'invalid_count': None, 'category': {'id': 15073, 'title': "from letterman's top 10 lists", 'created_at': '2022-12-30T20:11:28.492Z', 'updated_at': '2022-12-30T20:11:28.492Z', 'clues_count': 5}}, {'id': 30713, 'answer': 'penal colony', 'question': 'Brisbane, Australia started its history as one of these colonies', 'value': 200, 'airdate': '1993-07-14T19:00:00.000Z', 'created_at': '2022-12-30T18:50:14.359Z', 'updated_at': '2022-12-30T18:50:14.359Z', 'category_id': 2690, 'game_id': 6208, 'invalid_count': None, 'category': {'id': 2690, 'title': 'colonies', 'created_at': '2022-12-30T18:50:14.299Z', 'updated_at': '2022-12-30T18:50:14.299Z', 'clues_count': 10}}, {'id': 42889, 'answer': 'Julia Roberts', 'question': 'Her performance as Sally Field\'s daughter in "Steel Magnolias" was "Something to Talk About"', 'value': 200, 'airdate': '1995-11-21T20:00:00.000Z', 'created_at': '2022-12-30T18:55:31.642Z', 'updated_at': '2022-12-30T18:55:31.642Z', 'category_id': 3366, 'game_id': 290, 'invalid_count': None, 'category': {'id': 3366, 'title': 'movie relatives', 'created_at': '2022-12-30T18:55:31.549Z', 'updated_at': '2022-12-30T18:55:31.549Z', 'clues_count': 5}}, {'id': 87497, 'answer': 'Theodore Roosevelt', 'question': 'He wrote his son Kermit from the White House in 1903 about his being ambushed in a pillow fight', 'value': 1000, 'airdate': '2003-03-10T19:00:00.000Z', 'created_at': '2022-12-30T19:17:17.544Z', 'updated_at': '2022-12-30T19:17:17.544Z', 'category_id': 4991, 'game_id': 2803, 'invalid_count': None, 'category': {'id': 4991, 'title': 'pillow talk', 'created_at': '2022-12-30T19:02:50.071Z', 'updated_at': '2022-12-30T19:02:50.071Z', 'clues_count': 15}}, {'id': 15122, 'answer': 'Def Leppard', 'question': 'In 1987 this group\'s fans experienced "Hysteria" over their follow-up album to "Pyromania"', 'value': 200, 'airdate': '1989-02-16T20:00:00.000Z', 'created_at': '2022-12-30T18:43:46.157Z', 'updated_at': '2022-12-30T18:43:46.157Z', 'category_id': 891, 'game_id': 6675, 'invalid_count': None, 'category': {'id': 891, 'title': 'heavy metal', 'created_at': '2022-12-30T18:40:10.279Z', 'updated_at': '2022-12-30T18:40:10.279Z', 'clues_count': 20}}, {'id': 10960, 'answer': 'Superior & Michigan', 'question': 'Wisconsin touches these 2 Great Lakes', 'value': 500, 'airdate': '1988-02-03T20:00:00.000Z', 'created_at': '2022-12-30T18:42:01.500Z', 'updated_at': '2022-12-30T18:42:01.500Z', 'category_id': 51, 'game_id': 4704, 'invalid_count': None, 'category': {'id': 51, 'title': 'geography', 'created_at': '2022-12-30T18:37:42.459Z', 'updated_at': '2022-12-30T18:37:42.459Z', 'clues_count': 257}}, {'id': 89699, 'answer': 'run for president', 'question': 'Norman Thomas did this 6 times: in 1928, 1932, 1936, 1940, 1944 & 1948', 'value': 800, 'airdate': '2002-11-25T20:00:00.000Z', 'created_at': '2022-12-30T19:18:27.272Z', 'updated_at': '2022-12-30T19:18:27.272Z', 'category_id': 9284, 'game_id': 2615, 'invalid_count': None, 'category': {'id': 9284, 'title': 'facts from almanacs', 'created_at': '2022-12-30T19:18:27.003Z', 'updated_at': '2022-12-30T19:18:27.003Z', 'clues_count': 10}}, {'id': 131516, 'answer': 'Isaiah', 'question': '(Richard Roth reads from outside the U.N.)  A gift to the U.N. from the USSR, the "Let Us Beat Swords into Plowshares" statue gets its title from this prophet', 'value': 600, 'airdate': '2008-10-24T19:00:00.000Z', 'created_at': '2022-12-30T20:10:10.534Z', 'updated_at': '2022-12-30T20:10:10.534Z', 'category_id': 3110, 'game_id': 2750, 'invalid_count': None, 'category': {'id': 3110, 'title': 'the united nations', 'created_at': '2022-12-30T18:53:25.944Z', 'updated_at': '2022-12-30T18:53:25.944Z', 'clues_count': 30}}, {'id': 109058, 'answer': 'safari', 'question': 'Abercrombie & Kent offers these African journeys; founder Geoffrey Kent was born on one in Zambia', 'value': 200, 'airdate': '2006-01-27T20:00:00.000Z', 'created_at': '2022-12-30T19:39:07.028Z', 'updated_at': '2022-12-30T19:39:07.028Z', 'category_id': 11887, 'game_id': 748, 'invalid_count': None, 'category': {'id': 11887, 'title': 'globetrotting', 'created_at': '2022-12-30T19:39:06.549Z', 'updated_at': '2022-12-30T19:39:06.549Z', 'clues_count': 10}}, {'id': 135062, 'answer': 'a mine', 'question': 'Detonated by contact, it can be an explosive buried underground or floated at sea', 'value': 200, 'airdate': '2010-04-02T19:00:00.000Z', 'created_at': '2022-12-30T20:14:57.903Z', 'updated_at': '2022-12-30T20:14:57.903Z', 'category_id': 15459, 'game_id': 3357, 'invalid_count': None, 'category': {'id': 15459, 'title': 'you da bomb!', 'created_at': '2022-12-30T20:14:57.710Z', 'updated_at': '2022-12-30T20:14:57.710Z', 'clues_count': 5}}, {'id': 158509, 'answer': 'executive privilege', 'question': 'In June 2012 the president invoked this right over Operation Fast & Furious papers', 'value': 800, 'airdate': '2012-11-09T20:00:00.000Z', 'created_at': '2022-12-30T20:47:31.806Z', 'updated_at': '2022-12-30T20:47:31.806Z', 'category_id': 18987, 'game_id': 4009, 'invalid_count': None, 'category': {'id': 18987, 'title': 'civics', 'created_at': '2022-12-30T20:47:30.175Z', 'updated_at': '2022-12-30T20:47:30.175Z', 'clues_count': 5}}, {'id': 169765, 'answer': 'demographics', 'question': '(Jon Taffer delivers the clue.)  If female guests average over 34, use barstools with backs, as women get sensitive about their own backs with age; under 34, let them spin & interact--that\'s applying this science, from the Greek for "people" & "writing"', 'value': 600, 'airdate': '2015-02-20T20:00:00.000Z', 'created_at': '2022-12-30T21:03:05.057Z', 'updated_at': '2022-12-30T21:03:05.057Z', 'category_id': 20709, 'game_id': 4829, 'invalid_count': None, 'category': {'id': 20709, 'title': 'bar science', 'created_at': '2022-12-30T21:03:04.049Z', 'updated_at': '2022-12-30T21:03:04.049Z', 'clues_count': 3}}, {'id': 48821, 'answer': 'Ahi', 'question': 'Type of tuna            (3)', 'value': 500, 'airdate': '1996-12-26T20:00:00.000Z', 'created_at': '2022-12-30T18:58:10.898Z', 'updated_at': '2022-12-30T18:58:10.898Z', 'category_id': 2913, 'game_id': 617, 'invalid_count': None, 'category': {'id': 2913, 'title': 'crossword clues "a"', 'created_at': '2022-12-30T18:51:53.140Z', 'updated_at': '2022-12-30T18:51:53.140Z', 'clues_count': 65}}, {'id': 98186, 'answer': 'a tone arm', 'question': '(Cheryl of the Clue Crew displays the long,wand-like part ofa phonograph thatholds the stylus.)  Fittingly, this part of a phonograph has sort of a musical name', 'value': 1000, 'airdate': '2003-09-12T19:00:00.000Z', 'created_at': '2022-12-30T19:23:56.162Z', 'updated_at': '2022-12-30T19:23:56.162Z', 'category_id': 10372, 'game_id': 3601, 'invalid_count': None, 'category': {'id': 10372, 'title': "what's that thing called?", 'created_at': '2022-12-30T19:23:54.423Z', 'updated_at': '2022-12-30T19:23:54.423Z', 'clues_count': 5}}, {'id': 52126, 'answer': 'Maya Angelou', 'question': 'This author of "I Know Why The Caged Bird Sings" won the NAACP\'s Spingarn Medal in 1994', 'value': 300, 'airdate': '1998-05-21T19:00:00.000Z', 'created_at': '2022-12-30T18:59:42.642Z', 'updated_at': '2022-12-30T18:59:42.642Z', 'category_id': 4083, 'game_id': 1204, 'invalid_count': None, 'category': {'id': 4083, 'title': 'black americans', 'created_at': '2022-12-30T18:59:42.513Z', 'updated_at': '2022-12-30T18:59:42.513Z', 'clues_count': 15}}, {'id': 17228, 'answer': 'Reggie', 'question': "Archie's pal is Jughead & his rival, this guy", 'value': 200, 'airdate': '1988-11-01T19:00:00.000Z', 'created_at': '2022-12-30T18:44:39.563Z', 'updated_at': '2022-12-30T18:44:39.563Z', 'category_id': 898, 'game_id': 4580, 'invalid_count': None, 'category': {'id': 898, 'title': 'comic books', 'created_at': '2022-12-30T18:40:12.292Z', 'updated_at': '2022-12-30T18:40:12.292Z', 'clues_count': 50}}, {'id': 99369, 'answer': 'Samuel', 'question': 'A "First" or "Second" book of the BIble', 'value': 600, 'airdate': '2005-06-03T19:00:00.000Z', 'created_at': '2022-12-30T19:25:32.630Z', 'updated_at': '2022-12-30T19:25:32.630Z', 'category_id': 7210, 'game_id': 370, 'invalid_count': None, 'category': {'id': 7210, 'title': 'abbreviated s', 'created_at': '2022-12-30T19:10:29.966Z', 'updated_at': '2022-12-30T19:10:29.966Z', 'clues_count': 10}}, {'id': 146965, 'answer': 'Ghost', 'question': 'A leader of Confederate guerrillas who were spookily hard to find & fight, John Mosby was aka the Gray this', 'value': 600, 'airdate': '2012-06-25T19:00:00.000Z', 'created_at': '2022-12-30T20:31:08.743Z', 'updated_at': '2022-12-30T20:31:08.743Z', 'category_id': 731, 'game_id': 3925, 'invalid_count': None, 'category': {'id': 731, 'title': 'the civil war', 'created_at': '2022-12-30T18:39:36.999Z', 'updated_at': '2022-12-30T18:39:36.999Z', 'clues_count': 170}}, {'id': 153908, 'answer': 'agent', 'question': 'In this job, Scott Boras used his skills to get big bucks for A-Rod', 'value': 800, 'airdate': '2013-06-14T19:00:00.000Z', 'created_at': '2022-12-30T20:41:05.296Z', 'updated_at': '2022-12-30T20:41:05.296Z', 'category_id': 18309, 'game_id': 4212, 'invalid_count': None, 'category': {'id': 18309, 'title': 'i have a particular set of skills', 'created_at': '2022-12-30T20:41:04.004Z', 'updated_at': '2022-12-30T20:41:04.004Z', 'clues_count': 5}}, {'id': 189499, 'answer': 'Buffett', 'question': "In 2006, he pledged to donate more than 80% of his wealth--& he's worth billions--to charities", 'value': 200, 'airdate': '2018-03-02T20:00:00.000Z', 'created_at': '2022-12-30T21:30:55.941Z', 'updated_at': '2022-12-30T21:30:55.941Z', 'category_id': 23580, 'game_id': 5925, 'invalid_count': None, 'category': {'id': 23580, 'title': 'charitable folks', 'created_at': '2022-12-30T21:30:55.731Z', 'updated_at': '2022-12-30T21:30:55.731Z', 'clues_count': 5}}, {'id': 180004, 'answer': '<i>Animal House</i>', 'question': 'Dean Wormer says, "Fat, drunk & stupid is no way to go through life, son" before kicking Kent out of Faber College in this film', 'value': 400, 'airdate': '2017-07-17T19:00:00.000Z', 'created_at': '2022-12-30T21:18:14.742Z', 'updated_at': '2022-12-30T21:18:14.742Z', 'category_id': 22205, 'game_id': 5737, 'invalid_count': None, 'category': {'id': 22205, 'title': 'schools on screens', 'created_at': '2022-12-30T21:18:14.147Z', 'updated_at': '2022-12-30T21:18:14.147Z', 'clues_count': 5}}, {'id': 165398, 'answer': 'Christopher Wren', 'question': "Look around youin St. Paul's & you're taking in this man's true memorial, as his Latin epitaph in the cathedral says", 'value': 400, 'airdate': '2013-11-04T20:00:00.000Z', 'created_at': '2022-12-30T20:57:01.577Z', 'updated_at': '2022-12-30T20:57:01.577Z', 'category_id': 20026, 'game_id': 4343, 'invalid_count': None, 'category': {'id': 20026, 'title': "st. paul's cathedral", 'created_at': '2022-12-30T20:57:01.050Z', 'updated_at': '2022-12-30T20:57:01.050Z', 'clues_count': 5}}, {'id': 81628, 'answer': 'slate', 'question': 'A list of political candidates that when swept clean signifies a new beginning', 'value': 1000, 'airdate': '2002-01-25T20:00:00.000Z', 'created_at': '2022-12-30T19:14:09.843Z', 'updated_at': '2022-12-30T19:14:09.843Z', 'category_id': 8162, 'game_id': 1222, 'invalid_count': None, 'category': {'id': 8162, 'title': 'key stones', 'created_at': '2022-12-30T19:14:09.528Z', 'updated_at': '2022-12-30T19:14:09.528Z', 'clues_count': 5}}, {'id': 155973, 'answer': 'the law', 'question': '"Torah" literally means "instruction" or this, something a solicitor practices', 'value': 200, 'airdate': '2013-03-08T20:00:00.000Z', 'created_at': '2022-12-30T20:44:01.495Z', 'updated_at': '2022-12-30T20:44:01.495Z', 'category_id': 18622, 'game_id': 4105, 'invalid_count': None, 'category': {'id': 18622, 'title': 'torah', 'created_at': '2022-12-30T20:44:01.008Z', 'updated_at': '2022-12-30T20:44:01.008Z', 'clues_count': 5}}, {'id': 82015, 'answer': 'galleon', 'question': 'The name of this 3-masted sailing ship used by the Spanish Armada is from the Old Spanish for "galley"', 'value': 200, 'airdate': '2002-01-07T20:00:00.000Z', 'created_at': '2022-12-30T19:14:21.912Z', 'updated_at': '2022-12-30T19:14:21.912Z', 'category_id': 6611, 'game_id': 1165, 'invalid_count': None, 'category': {'id': 6611, 'title': 'way to go', 'created_at': '2022-12-30T19:08:29.055Z', 'updated_at': '2022-12-30T19:08:29.055Z', 'clues_count': 15}}, {'id': 120162, 'answer': 'Jessica Simpson', 'question': 'This Dallas Cowboys fan whose ex, Nick Lachey, gave her a maltepoo dog that now spends time with Tony Romo', 'value': 400, 'airdate': '2008-05-23T19:00:00.000Z', 'created_at': '2022-12-30T19:54:40.140Z', 'updated_at': '2022-12-30T19:54:40.140Z', 'category_id': 13358, 'game_id': 2487, 'invalid_count': None, 'category': {'id': 13358, 'title': 'the paparazzi love...', 'created_at': '2022-12-30T19:54:39.529Z', 'updated_at': '2022-12-30T19:54:39.529Z', 'clues_count': 5}}, {'id': 96649, 'answer': 'French dressing', 'question': "Orange-ya glad they didn't rename it freedom dressing during the last war with Iraq", 'value': 200, 'airdate': '2003-11-24T20:00:00.000Z', 'created_at': '2022-12-30T19:22:08.708Z', 'updated_at': '2022-12-30T19:22:08.708Z', 'category_id': 10171, 'game_id': 4606, 'invalid_count': None, 'category': {'id': 10171, 'title': "turn around, i'm dressing", 'created_at': '2022-12-30T19:22:08.635Z', 'updated_at': '2022-12-30T19:22:08.635Z', 'clues_count': 5}}, {'id': 68425, 'answer': 'Roanoke Island', 'question': 'Performed annually in North Carolina, "The Lost Colony" is an outdoor drama about this lost colony', 'value': 500, 'airdate': '2000-01-11T20:00:00.000Z', 'created_at': '2022-12-30T19:07:29.087Z', 'updated_at': '2022-12-30T19:07:29.087Z', 'category_id': 6342, 'game_id': 2012, 'invalid_count': None, 'category': {'id': 6342, 'title': 'lost', 'created_at': '2022-12-30T19:07:28.785Z', 'updated_at': '2022-12-30T19:07:28.785Z', 'clues_count': 5}}, {'id': 174932, 'answer': 'Van Halen', 'question': 'This band was hot for the charts in the 1980s with "Hot For Teacher"', 'value': 1000, 'airdate': '2016-05-03T19:00:00.000Z', 'created_at': '2022-12-30T21:10:38.639Z', 'updated_at': '2022-12-30T21:10:38.639Z', 'category_id': 21462, 'game_id': 5270, 'invalid_count': None, 'category': {'id': 21462, 'title': 'work with kids', 'created_at': '2022-12-30T21:10:37.148Z', 'updated_at': '2022-12-30T21:10:37.148Z', 'clues_count': 5}}, {'id': 146205, 'answer': 'the attic', 'question': 'If I go up to this highest room in a house & hide, I should be able to see anyone coming', 'value': 600, 'airdate': '2012-07-31T19:00:00.000Z', 'created_at': '2022-12-30T20:30:02.662Z', 'updated_at': '2022-12-30T20:30:02.662Z', 'category_id': 17152, 'game_id': 3965, 'invalid_count': None, 'category': {'id': 17152, 'title': 'hiding places', 'created_at': '2022-12-30T20:30:01.796Z', 'updated_at': '2022-12-30T20:30:01.796Z', 'clues_count': 5}}, {'id': 29836, 'answer': 'clay', 'question': 'The word ceramics comes from â\x80\x9ckeramosâ\x80\x9d, the Greek word for this substance', 'value': 300, 'airdate': '1991-10-17T19:00:00.000Z', 'created_at': '2022-12-30T18:49:51.982Z', 'updated_at': '2022-12-30T18:49:51.982Z', 'category_id': 2643, 'game_id': 2735, 'invalid_count': None, 'category': {'id': 2643, 'title': 'pottery', 'created_at': '2022-12-30T18:49:51.878Z', 'updated_at': '2022-12-30T18:49:51.878Z', 'clues_count': 5}}, {'id': 59651, 'answer': 'Brazil', 'question': 'The equator crosses more land in this South American nation than any other', 'value': 300, 'airdate': '1999-04-16T19:00:00.000Z', 'created_at': '2022-12-30T19:03:15.851Z', 'updated_at': '2022-12-30T19:03:15.851Z', 'category_id': 5119, 'game_id': 2342, 'invalid_count': None, 'category': {'id': 5119, 'title': 'cosmopolitan', 'created_at': '2022-12-30T19:03:15.700Z', 'updated_at': '2022-12-30T19:03:15.700Z', 'clues_count': 5}}, {'id': 65951, 'answer': 'Courage', 'question': 'In 1996 Kareem\'s strong interest in history inspired him to co-write "Black Profiles in" this', 'value': 400, 'airdate': '2000-05-05T19:00:00.000Z', 'created_at': '2022-12-30T19:06:17.913Z', 'updated_at': '2022-12-30T19:06:17.913Z', 'category_id': 5990, 'game_id': 1824, 'invalid_count': None, 'category': {'id': 5990, 'title': 'kareem', 'created_at': '2022-12-30T19:06:17.673Z', 'updated_at': '2022-12-30T19:06:17.673Z', 'clues_count': 5}}, {'id': 174946, 'answer': 'horse racing', 'question': 'Colors,handicap,backstretch', 'value': 400, 'airdate': '2016-05-02T19:00:00.000Z', 'created_at': '2022-12-30T21:10:40.163Z', 'updated_at': '2022-12-30T21:10:40.163Z', 'category_id': 15762, 'game_id': 5269, 'invalid_count': None, 'category': {'id': 15762, 'title': 'name that sport', 'created_at': '2022-12-30T20:17:41.308Z', 'updated_at': '2022-12-30T20:17:41.308Z', 'clues_count': 15}}, {'id': 73076, 'answer': 'shrimp', 'question': 'These creatures also called prawns may feed on krill, their fellow crustaceans', 'value': 100, 'airdate': '2001-04-18T19:00:00.000Z', 'created_at': '2022-12-30T19:09:46.348Z', 'updated_at': '2022-12-30T19:09:46.348Z', 'category_id': 6996, 'game_id': 1521, 'invalid_count': None, 'category': {'id': 6996, 'title': 'going in for the krill', 'created_at': '2022-12-30T19:09:46.305Z', 'updated_at': '2022-12-30T19:09:46.305Z', 'clues_count': 5}}, {'id': 6807, 'answer': 'golf', 'question': 'David Brenner said he doesn\'t like to watch this sport on TV because "I can\'t stand whispering"', 'value': 300, 'airdate': '1987-01-30T20:00:00.000Z', 'created_at': '2022-12-30T18:40:20.827Z', 'updated_at': '2022-12-30T18:40:20.827Z', 'category_id': 200, 'game_id': 4244, 'invalid_count': None, 'category': {'id': 200, 'title': 'sports quotes', 'created_at': '2022-12-30T18:38:04.465Z', 'updated_at': '2022-12-30T18:38:04.465Z', 'clues_count': 51}}, {'id': 160041, 'answer': '<i>Friends</i>', 'question': '"I\'m afraid the TV Guide comes to Chanandler Bong";"...Actually, it\'s Miss Chanandler Bong"', 'value': 400, 'airdate': '2014-07-15T19:00:00.000Z', 'created_at': '2022-12-30T20:49:47.038Z', 'updated_at': '2022-12-30T20:49:47.038Z', 'category_id': 19236, 'game_id': 4581, 'invalid_count': None, 'category': {'id': 19236, 'title': 'that nbc show was funny', 'created_at': '2022-12-30T20:49:46.427Z', 'updated_at': '2022-12-30T20:49:46.427Z', 'clues_count': 5}}, {'id': 209791, 'answer': '"Livin\\\' On A Prayer"', 'question': "We're halfway there! Bon Jovi topped the charts with this tune in 1987; you'll make it, I swear!", 'value': 400, 'airdate': '2021-01-20T20:00:00.000Z', 'created_at': '2022-12-30T21:58:20.608Z', 'updated_at': '2022-12-30T21:58:20.608Z', 'category_id': 26534, 'game_id': 6915, 'invalid_count': None, 'category': {'id': 26534, 'title': "'80s hits", 'created_at': '2022-12-30T21:58:20.179Z', 'updated_at': '2022-12-30T21:58:20.179Z', 'clues_count': 5}}, {'id': 16321, 'answer': 'Maine', 'question': "In 1832 Augusta replaced Portland as this state's capital", 'value': 200, 'airdate': '1988-12-19T20:00:00.000Z', 'created_at': '2022-12-30T18:44:17.384Z', 'updated_at': '2022-12-30T18:44:17.384Z', 'category_id': 210, 'game_id': 4871, 'invalid_count': None, 'category': {'id': 210, 'title': 'state capitals', 'created_at': '2022-12-30T18:38:06.288Z', 'updated_at': '2022-12-30T18:38:06.288Z', 'clues_count': 395}}, {'id': 27544, 'answer': 'core', 'question': 'Apple seed site (4)', 'value': 300, 'airdate': '1992-05-07T19:00:00.000Z', 'created_at': '2022-12-30T18:48:54.380Z', 'updated_at': '2022-12-30T18:48:54.380Z', 'category_id': 2485, 'game_id': 6370, 'invalid_count': None, 'category': {'id': 2485, 'title': 'crossword clues "c"', 'created_at': '2022-12-30T18:48:54.255Z', 'updated_at': '2022-12-30T18:48:54.255Z', 'clues_count': 25}}, {'id': 63873, 'answer': 'Cast', 'question': 'A group of hawks released by a falconer, or a group of actors performing in a play', 'value': 300, 'airdate': '1998-09-25T19:00:00.000Z', 'created_at': '2022-12-30T19:05:18.602Z', 'updated_at': '2022-12-30T19:05:18.602Z', 'category_id': 1396, 'game_id': 818, 'invalid_count': None, 'category': {'id': 1396, 'title': 'animal groups', 'created_at': '2022-12-30T18:42:10.698Z', 'updated_at': '2022-12-30T18:42:10.698Z', 'clues_count': 48}}, {'id': 86738, 'answer': 'cucumbers', 'question': "Soothing her tired eyes with slices of this veggie that's popular in British tea sandwiches", 'value': 400, 'airdate': '2003-04-14T19:00:00.000Z', 'created_at': '2022-12-30T19:16:54.488Z', 'updated_at': '2022-12-30T19:16:54.488Z', 'category_id': 8882, 'game_id': 868, 'invalid_count': None, 'category': {'id': 8882, 'title': 'what could she be doing in there?', 'created_at': '2022-12-30T19:16:54.352Z', 'updated_at': '2022-12-30T19:16:54.352Z', 'clues_count': 5}}, {'id': 87295, 'answer': 'nuclear power plant', 'question': 'In 2001 terrorism fears spurred calls to close Indian Point, this type of power plant near NYC', 'value': 200, 'airdate': '2003-03-18T19:00:00.000Z', 'created_at': '2022-12-30T19:17:11.595Z', 'updated_at': '2022-12-30T19:17:11.595Z', 'category_id': 8957, 'game_id': 2809, 'invalid_count': None, 'category': {'id': 8957, 'title': "we've got issues", 'created_at': '2022-12-30T19:17:11.557Z', 'updated_at': '2022-12-30T19:17:11.557Z', 'clues_count': 10}}, {'id': 30008, 'answer': 'olive oil', 'question': 'Vegetables a la greque are usually cooked in lemon juice & this oil & served cold', 'value': 200, 'airdate': '1991-10-04T19:00:00.000Z', 'created_at': '2022-12-30T18:49:56.510Z', 'updated_at': '2022-12-30T18:49:56.510Z', 'category_id': 74, 'game_id': 274, 'invalid_count': None, 'category': {'id': 74, 'title': 'food facts', 'created_at': '2022-12-30T18:37:44.940Z', 'updated_at': '2022-12-30T18:37:44.940Z', 'clues_count': 100}}, {'id': 24166, 'answer': 'Eleanor Rigby', 'question': 'In a Beatles song, she "picks up the rice in the church where a wedding has been"', 'value': 100, 'airdate': '1991-04-15T19:00:00.000Z', 'created_at': '2022-12-30T18:47:30.166Z', 'updated_at': '2022-12-30T18:47:30.166Z', 'category_id': 2243, 'game_id': 4916, 'invalid_count': None, 'category': {'id': 2243, 'title': 'rock lyrics', 'created_at': '2022-12-30T18:47:17.249Z', 'updated_at': '2022-12-30T18:47:17.249Z', 'clues_count': 20}}, {'id': 71974, 'answer': 'William Shakespeare', 'question': 'Renaissance man who wrote several narrative poems, 154 sonnets & oh, yes, over 30 plays', 'value': 100, 'airdate': '2001-06-08T19:00:00.000Z', 'created_at': '2022-12-30T19:09:13.801Z', 'updated_at': '2022-12-30T19:09:13.801Z', 'category_id': 6833, 'game_id': 1284, 'invalid_count': None, 'category': {'id': 6833, 'title': '"will" of the people', 'created_at': '2022-12-30T19:09:13.732Z', 'updated_at': '2022-12-30T19:09:13.732Z', 'clues_count': 5}}, {'id': 147783, 'answer': 'an owl', 'question': 'Genus Otus includes the screech type of this nocturnal bird', 'value': 200, 'airdate': '2012-05-15T19:00:00.000Z', 'created_at': '2022-12-30T20:32:24.091Z', 'updated_at': '2022-12-30T20:32:24.091Z', 'category_id': 17392, 'game_id': 3896, 'invalid_count': None, 'category': {'id': 17392, 'title': 'squawk on the street', 'created_at': '2022-12-30T20:32:23.919Z', 'updated_at': '2022-12-30T20:32:23.919Z', 'clues_count': 3}}, {'id': 206891, 'answer': 'hotels', 'question': 'In a standard Monopoly game, there are 32 green houses & 12 of these that are red', 'value': 200, 'airdate': '2021-06-04T19:00:00.000Z', 'created_at': '2022-12-30T21:54:32.420Z', 'updated_at': '2022-12-30T21:54:32.420Z', 'category_id': 26115, 'game_id': 7038, 'invalid_count': None, 'category': {'id': 26115, 'title': 'pieces of games', 'created_at': '2022-12-30T21:54:32.234Z', 'updated_at': '2022-12-30T21:54:32.234Z', 'clues_count': 5}}, {'id': 196806, 'answer': '<i>The Twilight Zone</i>', 'question': 'Aviation writer Robert Serling helped little bro Rod with "The Odyssey of Flight 33" episode of this series', 'value': 200, 'airdate': '2019-01-31T20:00:00.000Z', 'created_at': '2022-12-30T21:40:47.763Z', 'updated_at': '2022-12-30T21:40:47.763Z', 'category_id': 24640, 'game_id': 6205, 'invalid_count': None, 'category': {'id': 24640, 'title': 'scribbling siblings', 'created_at': '2022-12-30T21:40:47.549Z', 'updated_at': '2022-12-30T21:40:47.549Z', 'clues_count': 5}}, {'id': 104880, 'answer': 'Tom & Jerry', 'question': 'Newscaster Brokaw &comedian Seinfeld', 'value': 200, 'airdate': '2004-09-17T19:00:00.000Z', 'created_at': '2022-12-30T19:33:09.255Z', 'updated_at': '2022-12-30T19:33:09.255Z', 'category_id': 6865, 'game_id': 10, 'invalid_count': None, 'category': {'id': 6865, 'title': 'quasi-related pairs', 'created_at': '2022-12-30T19:09:18.914Z', 'updated_at': '2022-12-30T19:09:18.914Z', 'clues_count': 30}}, {'id': 125212, 'answer': 'Ham', 'question': "In the Bible, he saw Noah naked, & told his brothers Shem & Japheth--he knew something wasn't kosher", 'value': 400, 'airdate': '2007-10-01T19:00:00.000Z', 'created_at': '2022-12-30T20:01:32.825Z', 'updated_at': '2022-12-30T20:01:32.825Z', 'category_id': 13982, 'game_id': 2092, 'invalid_count': None, 'category': {'id': 13982, 'title': 'oh, brother', 'created_at': '2022-12-30T20:01:32.036Z', 'updated_at': '2022-12-30T20:01:32.036Z', 'clues_count': 5}}, {'id': 26684, 'answer': 'this was their finest hour', 'question': 'Completes "If the British Empire and its Commonwealth last for 1,000 years, men will still say..."', 'value': 400, 'airdate': '1990-09-03T19:00:00.000Z', 'created_at': '2022-12-30T18:48:32.999Z', 'updated_at': '2022-12-30T18:48:32.999Z', 'category_id': 194, 'game_id': 3452, 'invalid_count': None, 'category': {'id': 194, 'title': 'political quotes', 'created_at': '2022-12-30T18:38:03.869Z', 'updated_at': '2022-12-30T18:38:03.869Z', 'clues_count': 43}}, {'id': 43595, 'answer': 'Guantanamo Bay', 'question': 'In 1994 the U.S. reopened a refugee processing center at the naval base on this Cuban bay', 'value': 500, 'airdate': '1995-10-18T19:00:00.000Z', 'created_at': '2022-12-30T18:55:51.105Z', 'updated_at': '2022-12-30T18:55:51.105Z', 'category_id': 3408, 'game_id': 5886, 'invalid_count': None, 'category': {'id': 3408, 'title': 'bays & gulfs', 'created_at': '2022-12-30T18:55:50.895Z', 'updated_at': '2022-12-30T18:55:50.895Z', 'clues_count': 5}}, {'id': 52826, 'answer': 'Rock Hudson', 'question': 'Doris Day knows:Roy Fitzgerald', 'value': 400, 'airdate': '1998-04-17T19:00:00.000Z', 'created_at': '2022-12-30T19:00:02.001Z', 'updated_at': '2022-12-30T19:00:02.001Z', 'category_id': 4194, 'game_id': 1977, 'invalid_count': None, 'category': {'id': 4194, 'title': 'better known as...', 'created_at': '2022-12-30T19:00:01.795Z', 'updated_at': '2022-12-30T19:00:01.795Z', 'clues_count': 40}}, {'id': 142098, 'answer': '<i>Born on the Fourth of July</i>', 'question': '"Conceived on the Fourth of October"--to this 1989 biopic', 'value': 600, 'airdate': '2011-03-22T19:00:00.000Z', 'created_at': '2022-12-30T20:24:24.474Z', 'updated_at': '2022-12-30T20:24:24.474Z', 'category_id': 16526, 'game_id': 3605, 'invalid_count': None, 'category': {'id': 16526, 'title': 'a prequel to which movie?', 'created_at': '2022-12-30T20:24:23.650Z', 'updated_at': '2022-12-30T20:24:23.650Z', 'clues_count': 5}}, {'id': 80086, 'answer': 'Africa', 'question': 'Though it was popularized in the Caribbean, the limbo may have originated on the west part of this continent', 'value': 600, 'airdate': '2002-04-09T19:00:00.000Z', 'created_at': '2022-12-30T19:13:20.363Z', 'updated_at': '2022-12-30T19:13:20.363Z', 'category_id': 7949, 'game_id': 1739, 'invalid_count': None, 'category': {'id': 7949, 'title': "i feel like dancin'!", 'created_at': '2022-12-30T19:13:20.166Z', 'updated_at': '2022-12-30T19:13:20.166Z', 'clues_count': 5}}, {'id': 141049, 'answer': 'Belgium', 'question': 'This European country with 2 distinct ethnic groups broke a record by marking 249 days without a government', 'value': 1000, 'airdate': '2011-05-11T19:00:00.000Z', 'created_at': '2022-12-30T20:22:59.157Z', 'updated_at': '2022-12-30T20:22:59.157Z', 'category_id': 16360, 'game_id': 3642, 'invalid_count': None, 'category': {'id': 16360, 'title': '2011 news', 'created_at': '2022-12-30T20:22:57.401Z', 'updated_at': '2022-12-30T20:22:57.401Z', 'clues_count': 10}}, {'id': 70162, 'answer': 'Kirstie Alley', 'question': 'On August 25, 1991 she took home an Emmy for Best Actress in a Comedy Series', 'value': 400, 'airdate': '1999-10-19T19:00:00.000Z', 'created_at': '2022-12-30T19:08:20.789Z', 'updated_at': '2022-12-30T19:08:20.789Z', 'category_id': 6575, 'game_id': 1630, 'invalid_count': None, 'category': {'id': 6575, 'title': '"alley" ways', 'created_at': '2022-12-30T19:08:20.571Z', 'updated_at': '2022-12-30T19:08:20.571Z', 'clues_count': 5}}, {'id': 191522, 'answer': 'Sue Grafton', 'question': 'She\'s won several Shamus Awards for her Alphabet mysteries, including "G is for Gumshoe"', 'value': 800, 'airdate': '2017-11-24T20:00:00.000Z', 'created_at': '2022-12-30T21:33:39.131Z', 'updated_at': '2022-12-30T21:33:39.131Z', 'category_id': 397, 'game_id': 5846, 'invalid_count': None, 'category': {'id': 397, 'title': 'detective fiction', 'created_at': '2022-12-30T18:38:36.171Z', 'updated_at': '2022-12-30T18:38:36.171Z', 'clues_count': 20}}, {'id': 146507, 'answer': '(Lindsey) Vonn', 'question': 'In 2012 she went downhill fast enough to win her fourth overall World Cup title, the most of any American skier', 'value': 800, 'airdate': '2012-07-17T19:00:00.000Z', 'created_at': '2022-12-30T20:30:26.848Z', 'updated_at': '2022-12-30T20:30:26.848Z', 'category_id': 17190, 'game_id': 3950, 'invalid_count': None, 'category': {'id': 17190, 'title': 'think fast!', 'created_at': '2022-12-30T20:30:25.658Z', 'updated_at': '2022-12-30T20:30:25.658Z', 'clues_count': 5}}, {'id': 192121, 'answer': 'stalker and fan', 'question': 'The portmanteau word stan, like the obsessed guy in the Eminem song, is derived from these 2 other words', 'value': 1000, 'airdate': '2017-10-27T19:00:00.000Z', 'created_at': '2022-12-30T21:34:27.932Z', 'updated_at': '2022-12-30T21:34:27.932Z', 'category_id': 23962, 'game_id': 5813, 'invalid_count': None, 'category': {'id': 23962, 'title': 'modern lingo', 'created_at': '2022-12-30T21:34:26.313Z', 'updated_at': '2022-12-30T21:34:26.313Z', 'clues_count': 5}}, {'id': 152176, 'answer': 'gravity', 'question': 'Positive geotropism is the effect of this force on plants causing their roots to grow downward', 'value': 600, 'airdate': '2011-10-19T19:00:00.000Z', 'created_at': '2022-12-30T20:38:40.876Z', 'updated_at': '2022-12-30T20:38:40.876Z', 'category_id': 10092, 'game_id': 3741, 'invalid_count': None, 'category': {'id': 10092, 'title': 'biolo"g"', 'created_at': '2022-12-30T19:21:49.119Z', 'updated_at': '2022-12-30T19:21:49.119Z', 'clues_count': 15}}, {'id': 69021, 'answer': 'Saddam Hussein', 'question': "He's still president", 'value': 100, 'airdate': '1999-12-13T20:00:00.000Z', 'created_at': '2022-12-30T19:07:47.271Z', 'updated_at': '2022-12-30T19:07:47.271Z', 'category_id': 6435, 'game_id': 2179, 'invalid_count': None, 'category': {'id': 6435, 'title': 'iraq', 'created_at': '2022-12-30T19:07:47.212Z', 'updated_at': '2022-12-30T19:07:47.212Z', 'clues_count': 10}}, {'id': 11880, 'answer': 'Leopold & Loeb', 'question': 'These young killers were nicknamed "Babe" & "Dickie", as C. Darrow could have told you', 'value': 500, 'airdate': '1987-12-09T20:00:00.000Z', 'created_at': '2022-12-30T18:42:24.223Z', 'updated_at': '2022-12-30T18:42:24.223Z', 'category_id': 1446, 'game_id': 4559, 'invalid_count': None, 'category': {'id': 1446, 'title': 'murder & mayhem', 'created_at': '2022-12-30T18:42:24.076Z', 'updated_at': '2022-12-30T18:42:24.076Z', 'clues_count': 5}}, {'id': 109442, 'answer': '"Bad, Bad Leroy Brown"', 'question': 'Jim Croce had his first No. 1 hit with this song', 'value': 200, 'airdate': '2006-01-10T20:00:00.000Z', 'created_at': '2022-12-30T19:39:40.297Z', 'updated_at': '2022-12-30T19:39:40.297Z', 'category_id': 11939, 'game_id': 705, 'invalid_count': None, 'category': {'id': 11939, 'title': '"good" & "bad" songs', 'created_at': '2022-12-30T19:39:40.101Z', 'updated_at': '2022-12-30T19:39:40.101Z', 'clues_count': 5}}, {'id': 8839, 'answer': 'earthworms', 'question': "There's an estimated average of 1/2 a ton of these nocturnal crawlers in an acre of soil", 'value': 100, 'airdate': '1988-06-14T19:00:00.000Z', 'created_at': '2022-12-30T18:41:10.923Z', 'updated_at': '2022-12-30T18:41:10.923Z', 'category_id': 1152, 'game_id': 5288, 'invalid_count': None, 'category': {'id': 1152, 'title': 'invertebrates', 'created_at': '2022-12-30T18:41:10.900Z', 'updated_at': '2022-12-30T18:41:10.900Z', 'clues_count': 24}}, {'id': 147612, 'answer': 'the lumbar (vertebrae)', 'question': 'It took us hours to erect, & I hurt several of these lower-back vertebrae just below the thoracic', 'value': 400, 'airdate': '2012-05-24T19:00:00.000Z', 'created_at': '2022-12-30T20:32:08.567Z', 'updated_at': '2022-12-30T20:32:08.567Z', 'category_id': 17360, 'game_id': 3903, 'invalid_count': None, 'category': {'id': 17360, 'title': 'the winter of our discount tent', 'created_at': '2022-12-30T20:32:07.696Z', 'updated_at': '2022-12-30T20:32:07.696Z', 'clues_count': 5}}, {'id': 192922, 'answer': 'the Rockettes', 'question': "With Radio City Music Hall producing the show in 1988, it's no surprise that it featured these dancers", 'value': 200, 'airdate': '2017-09-19T19:00:00.000Z', 'created_at': '2022-12-30T21:35:34.644Z', 'updated_at': '2022-12-30T21:35:34.644Z', 'category_id': 24079, 'game_id': 5782, 'invalid_count': None, 'category': {'id': 24079, 'title': 'super bowl halftime shows', 'created_at': '2022-12-30T21:35:34.446Z', 'updated_at': '2022-12-30T21:35:34.446Z', 'clues_count': 5}}, {'id': 68489, 'answer': 'Tiger Woods', 'question': 'In 1994 at age 18, he became the youngest golfer to win the U.S. Amateur Golf Tournament', 'value': 100, 'airdate': '2000-01-06T20:00:00.000Z', 'created_at': '2022-12-30T19:07:31.390Z', 'updated_at': '2022-12-30T19:07:31.390Z', 'category_id': 6355, 'game_id': 2009, 'invalid_count': None, 'category': {'id': 6355, 'title': 'fore!', 'created_at': '2022-12-30T19:07:31.344Z', 'updated_at': '2022-12-30T19:07:31.344Z', 'clues_count': 10}}, {'id': 129982, 'answer': 'free radicals', 'question': '(Dr. Oz presents.)  Exposure to U.V. radiation dries out & can burn the skin & also releases these liberated molecules that can damage the DNA & lead to cancer', 'value': 400, 'airdate': '2009-01-05T20:00:00.000Z', 'created_at': '2022-12-30T20:08:04.678Z', 'updated_at': '2022-12-30T20:08:04.678Z', 'category_id': 14714, 'game_id': 2855, 'invalid_count': None, 'category': {'id': 14714, 'title': 'you: being beautiful', 'created_at': '2022-12-30T20:08:04.227Z', 'updated_at': '2022-12-30T20:08:04.227Z', 'clues_count': 5}}, {'id': 89651, 'answer': 'Wisk', 'question': 'In a famous ad campaign this product accused people of having "Ring Around the Collar"', 'value': 200, 'airdate': '2002-11-26T20:00:00.000Z', 'created_at': '2022-12-30T19:18:25.967Z', 'updated_at': '2022-12-30T19:18:25.967Z', 'category_id': 9278, 'game_id': 2616, 'invalid_count': None, 'category': {'id': 9278, 'title': 'with this ring', 'created_at': '2022-12-30T19:18:25.915Z', 'updated_at': '2022-12-30T19:18:25.915Z', 'clues_count': 5}}, {'id': 192664, 'answer': 'Machu Picchu', 'question': 'Several varieties of orchids can be seen while hiking the Inca trail from Cuzco to this "lost city"', 'value': 400, 'airdate': '2017-10-02T19:00:00.000Z', 'created_at': '2022-12-30T21:35:13.799Z', 'updated_at': '2022-12-30T21:35:13.799Z', 'category_id': 92, 'game_id': 5791, 'invalid_count': None, 'category': {'id': 92, 'title': 'travel & tourism', 'created_at': '2022-12-30T18:37:46.809Z', 'updated_at': '2022-12-30T18:37:46.809Z', 'clues_count': 246}}, {'id': 15806, 'answer': '<i>Star Trek</i> (<i>The Next Generation</i>)', 'question': 'In 1987 a wild boar named Emmy Lou got all dressed up to play a Klingon Targ on this TV series', 'value': 200, 'airdate': '1989-01-13T20:00:00.000Z', 'created_at': '2022-12-30T18:44:04.878Z', 'updated_at': '2022-12-30T18:44:04.878Z', 'category_id': 28, 'game_id': 5001, 'invalid_count': None, 'category': {'id': 28, 'title': 'tv trivia', 'created_at': '2022-12-30T18:37:39.335Z', 'updated_at': '2022-12-30T18:37:39.335Z', 'clues_count': 180}}, {'id': 125109, 'answer': 'Japanese', 'question': 'Kampai', 'value': 1000, 'airdate': '2007-10-05T19:00:00.000Z', 'created_at': '2022-12-30T20:01:23.506Z', 'updated_at': '2022-12-30T20:01:23.506Z', 'category_id': 13967, 'game_id': 2100, 'invalid_count': None, 'category': {'id': 13967, 'title': 'toasts by language', 'created_at': '2022-12-30T20:01:21.983Z', 'updated_at': '2022-12-30T20:01:21.983Z', 'clues_count': 5}}, {'id': 70790, 'answer': '<i>Northern Exposure</i>', 'question': "Chris Stevens,Maggie O'Connell,Dr. Joel Fleischman", 'value': 500, 'airdate': '1999-09-20T19:00:00.000Z', 'created_at': '2022-12-30T19:08:38.918Z', 'updated_at': '2022-12-30T19:08:38.918Z', 'category_id': 3791, 'game_id': 1702, 'invalid_count': None, 'category': {'id': 3791, 'title': 'tv characters', 'created_at': '2022-12-30T18:58:19.806Z', 'updated_at': '2022-12-30T18:58:19.806Z', 'clues_count': 50}}, {'id': 75228, 'answer': 'Pimpernel', 'question': 'A bell-shaped flower in the primrose family, it comes in red, white, blue & "scarlet"', 'value': 500, 'airdate': '2001-01-08T20:00:00.000Z', 'created_at': '2022-12-30T19:10:49.750Z', 'updated_at': '2022-12-30T19:10:49.750Z', 'category_id': 1082, 'game_id': 2250, 'invalid_count': None, 'category': {'id': 1082, 'title': 'flowers', 'created_at': '2022-12-30T18:40:55.794Z', 'updated_at': '2022-12-30T18:40:55.794Z', 'clues_count': 69}}, {'id': 181167, 'answer': 'Oliver Wendell Holmes', 'question': 'Retired from the Supreme Court in 1932 at age 90: OWH (Jr.)', 'value': 1000, 'airdate': '2017-05-23T19:00:00.000Z', 'created_at': '2022-12-30T21:19:45.972Z', 'updated_at': '2022-12-30T21:19:45.972Z', 'category_id': 22369, 'game_id': 5648, 'invalid_count': None, 'category': {'id': 22369, 'title': 'monogram mania', 'created_at': '2022-12-30T21:19:44.559Z', 'updated_at': '2022-12-30T21:19:44.559Z', 'clues_count': 5}}, {'id': 50155, 'answer': 'Charlie Chan', 'question': 'This Oriental sleuth has been played by Warner Oland, Sidney Toler & Roland Winters', 'value': 200, 'airdate': '1996-10-10T19:00:00.000Z', 'created_at': '2022-12-30T18:58:48.504Z', 'updated_at': '2022-12-30T18:58:48.504Z', 'category_id': 719, 'game_id': 4148, 'invalid_count': None, 'category': {'id': 719, 'title': 'the movies', 'created_at': '2022-12-30T18:39:35.048Z', 'updated_at': '2022-12-30T18:39:35.048Z', 'clues_count': 255}}, {'id': 2349, 'answer': 'Running Bear', 'question': 'The middle of the river was where he & Little White Dove finally met', 'value': 200, 'airdate': '1986-03-13T19:00:00.000Z', 'created_at': '2022-12-30T18:38:34.327Z', 'updated_at': '2022-12-30T18:38:34.327Z', 'category_id': 384, 'game_id': 7052, 'invalid_count': None, 'category': {'id': 384, 'title': 'river songs', 'created_at': '2022-12-30T18:38:34.288Z', 'updated_at': '2022-12-30T18:38:34.288Z', 'clues_count': 5}}, {'id': 80516, 'answer': 'the Vietnam Veterans Memorial', 'question': 'This Washington D.C. memorial has over 58,000 names inscribed on it', 'value': 200, 'airdate': '2002-03-19T19:00:00.000Z', 'created_at': '2022-12-30T19:13:33.708Z', 'updated_at': '2022-12-30T19:13:33.708Z', 'category_id': 8021, 'game_id': 1724, 'invalid_count': None, 'category': {'id': 8021, 'title': 'american memorials', 'created_at': '2022-12-30T19:13:33.644Z', 'updated_at': '2022-12-30T19:13:33.644Z', 'clues_count': 5}}, {'id': 105568, 'answer': 'copper', 'question': 'The current U.S. penny is zinc covered in this', 'value': 400, 'airdate': '2006-07-11T19:00:00.000Z', 'created_at': '2022-12-30T19:34:07.870Z', 'updated_at': '2022-12-30T19:34:07.870Z', 'category_id': 11375, 'game_id': 1116, 'invalid_count': None, 'category': {'id': 11375, 'title': 'coverings', 'created_at': '2022-12-30T19:34:07.280Z', 'updated_at': '2022-12-30T19:34:07.280Z', 'clues_count': 5}}, {'id': 1153, 'answer': 'the Royal Ballet', 'question': "Formerly England's Sadler's Wells Ballet", 'value': 500, 'airdate': '1984-10-08T19:00:00.000Z', 'created_at': '2022-12-30T18:38:05.757Z', 'updated_at': '2022-12-30T18:38:05.757Z', 'category_id': 207, 'game_id': 5244, 'invalid_count': None, 'category': {'id': 207, 'title': 'ballet', 'created_at': '2022-12-30T18:38:05.664Z', 'updated_at': '2022-12-30T18:38:05.664Z', 'clues_count': 96}}, {'id': 220434, 'answer': 'Charlemagne', 'question': 'King of the Franks *&* the Lombards, impressive... & first emperor of what would be the Holy Roman Empire? I see a team leader here', 'value': 200, 'airdate': '2022-10-31T19:00:00.000Z', 'created_at': '2022-12-30T22:13:04.446Z', 'updated_at': '2022-12-30T22:13:04.446Z', 'category_id': 28027, 'game_id': 7491, 'invalid_count': None, 'category': {'id': 28027, 'title': 'conducting the historic job interview', 'created_at': '2022-12-30T22:13:04.262Z', 'updated_at': '2022-12-30T22:13:04.262Z', 'clues_count': 5}}, {'id': 40618, 'answer': '<i>Blue Velvet</i>', 'question': 'Kyle MacLachlan is torn between lovers Laura Dern & Isabella Rossellini in this David Lynch film', 'value': 300, 'airdate': '1996-04-30T19:00:00.000Z', 'created_at': '2022-12-30T18:54:31.741Z', 'updated_at': '2022-12-30T18:54:31.741Z', 'category_id': 1973, 'game_id': 5542, 'invalid_count': None, 'category': {'id': 1973, 'title': '"blue" movies', 'created_at': '2022-12-30T18:45:29.182Z', 'updated_at': '2022-12-30T18:45:29.182Z', 'clues_count': 15}}, {'id': 170115, 'answer': 'inside job', 'question': '2-word term for a crime committed by an employee of the victimized business', 'value': 400, 'airdate': '2015-02-04T20:00:00.000Z', 'created_at': '2022-12-30T21:03:34.664Z', 'updated_at': '2022-12-30T21:03:34.664Z', 'category_id': 20760, 'game_id': 4803, 'invalid_count': None, 'category': {'id': 20760, 'title': 'crime & law enforcement', 'created_at': '2022-12-30T21:03:33.922Z', 'updated_at': '2022-12-30T21:03:33.922Z', 'clues_count': 5}}, {'id': 19833, 'answer': 'American cheese', 'question': 'This name refers to natural cheddar made in the U.S. & is often confused with processed cheese', 'value': 400, 'airdate': '1990-03-05T20:00:00.000Z', 'created_at': '2022-12-30T18:45:45.109Z', 'updated_at': '2022-12-30T18:45:45.109Z', 'category_id': 2010, 'game_id': 493, 'invalid_count': None, 'category': {'id': 2010, 'title': 'say cheese', 'created_at': '2022-12-30T18:45:44.962Z', 'updated_at': '2022-12-30T18:45:44.962Z', 'clues_count': 25}}, {'id': 101599, 'answer': 'the Chinese Communist Party', 'question': 'From 1980 to 1987, Zhao Ziyang was premier & from 1987 to 1989 General Secretary of this party', 'value': 1000, 'airdate': '2005-02-21T20:00:00.000Z', 'created_at': '2022-12-30T19:28:37.831Z', 'updated_at': '2022-12-30T19:28:37.831Z', 'category_id': 10854, 'game_id': 161, 'invalid_count': None, 'category': {'id': 10854, 'title': 'easy for you to say', 'created_at': '2022-12-30T19:28:35.989Z', 'updated_at': '2022-12-30T19:28:35.989Z', 'clues_count': 5}}, {'id': 207517, 'answer': 'transatlantic cable', 'question': 'Pres. Buchanan & Queen Victoria sent greetings after this, including the name of an ocean, had been laid successfully in 1858', 'value': 1000, 'airdate': '2021-05-07T19:00:00.000Z', 'created_at': '2022-12-30T21:55:22.350Z', 'updated_at': '2022-12-30T21:55:22.350Z', 'category_id': 26203, 'game_id': 7018, 'invalid_count': None, 'category': {'id': 26203, 'title': 'just got real', 'created_at': '2022-12-30T21:55:20.657Z', 'updated_at': '2022-12-30T21:55:20.657Z', 'clues_count': 5}}, {'id': 91906, 'answer': 'Anchorage', 'question': 'In 2004 an Arctic Beauty wild hair contest became part of the famous Fur Rendezvous in this U.S. city', 'value': 600, 'airdate': '2004-07-06T19:00:00.000Z', 'created_at': '2022-12-30T19:19:36.702Z', 'updated_at': '2022-12-30T19:19:36.702Z', 'category_id': 9572, 'game_id': 2699, 'invalid_count': None, 'category': {'id': 9572, 'title': 'give me an "a"!', 'created_at': '2022-12-30T19:19:36.468Z', 'updated_at': '2022-12-30T19:19:36.468Z', 'clues_count': 5}}, {'id': 203311, 'answer': 'Joy Behar', 'question': "Here's a view of this TV personality", 'value': 400, 'airdate': '2019-12-16T20:00:00.000Z', 'created_at': '2022-12-30T21:49:42.184Z', 'updated_at': '2022-12-30T21:49:42.184Z', 'category_id': 25588, 'game_id': 6498, 'invalid_count': None, 'category': {'id': 25588, 'title': 'spark joy', 'created_at': '2022-12-30T21:49:41.300Z', 'updated_at': '2022-12-30T21:49:41.300Z', 'clues_count': 5}}, {'id': 138953, 'answer': '<i>Pac-Man</i>', 'question': 'The creator of this game got the idea while noticing a pizza missing a slice looked like an open-mouthed head', 'value': 200, 'airdate': '2009-09-30T19:00:00.000Z', 'created_at': '2022-12-30T20:20:11.068Z', 'updated_at': '2022-12-30T20:20:11.068Z', 'category_id': 16043, 'game_id': 3155, 'invalid_count': None, 'category': {'id': 16043, 'title': 'classic video games', 'created_at': '2022-12-30T20:20:10.865Z', 'updated_at': '2022-12-30T20:20:10.865Z', 'clues_count': 10}}, {'id': 19928, 'answer': 'Gilbert & Sullivan', 'question': "A Savoyard is a fan of this duo's works, which were 1st presented at the Savoy Theater", 'value': 500, 'airdate': '1990-02-28T20:00:00.000Z', 'created_at': '2022-12-30T18:45:47.374Z', 'updated_at': '2022-12-30T18:45:47.374Z', 'category_id': 813, 'game_id': 491, 'invalid_count': None, 'category': {'id': 813, 'title': 'words', 'created_at': '2022-12-30T18:39:54.253Z', 'updated_at': '2022-12-30T18:39:54.253Z', 'clues_count': 44}}, {'id': 53949, 'answer': 'the vestibule', 'question': "This term for a house's entrance hall also refers to the space between cars on a train", 'value': 500, 'airdate': '1998-02-24T20:00:00.000Z', 'created_at': '2022-12-30T19:00:33.247Z', 'updated_at': '2022-12-30T19:00:33.247Z', 'category_id': 4365, 'game_id': 191, 'invalid_count': None, 'category': {'id': 4365, 'title': 'places', 'created_at': '2022-12-30T19:00:33.006Z', 'updated_at': '2022-12-30T19:00:33.006Z', 'clues_count': 15}}, {'id': 191183, 'answer': 'flattery', 'question': 'They say this synonym for fawning "will get you nowhere" but right now that\'s not true at all', 'value': 200, 'airdate': '2017-12-11T20:00:00.000Z', 'created_at': '2022-12-30T21:33:13.116Z', 'updated_at': '2022-12-30T21:33:13.116Z', 'category_id': 23841, 'game_id': 5853, 'invalid_count': None, 'category': {'id': 23841, 'title': "that's some shameless pandering", 'created_at': '2022-12-30T21:33:12.906Z', 'updated_at': '2022-12-30T21:33:12.906Z', 'clues_count': 5}}, {'id': 150471, 'answer': 'Barbra Streisand', 'question': '"Yentl"', 'value': 200, 'airdate': '2012-01-06T20:00:00.000Z', 'created_at': '2022-12-30T20:36:12.310Z', 'updated_at': '2022-12-30T20:36:12.310Z', 'category_id': 17794, 'game_id': 3801, 'invalid_count': None, 'category': {'id': 17794, 'title': 'directed & starred in', 'created_at': '2022-12-30T20:36:12.136Z', 'updated_at': '2022-12-30T20:36:12.136Z', 'clues_count': 5}}, {'id': 147586, 'answer': 'Brussels, Belgium', 'question': 'City & country where NATO is headquartered', 'value': None, 'airdate': '2012-05-25T19:00:00.000Z', 'created_at': '2022-12-30T20:32:06.204Z', 'updated_at': '2022-12-30T20:32:06.204Z', 'category_id': 17353, 'game_id': 3904, 'invalid_count': None, 'category': {'id': 17353, 'title': 'capital & country: same first letter', 'created_at': '2022-12-30T20:32:05.312Z', 'updated_at': '2022-12-30T20:32:05.312Z', 'clues_count': 5}}]
+2023-10-21 18:45:23,448 [MongoRepository.py:20] INFO: question 137663 was saved
+2023-10-21 18:45:23,448 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909003
+2023-10-21 18:45:23,449 [MongoRepository.py:20] INFO: question 194519 was saved
+2023-10-21 18:45:23,449 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909004
+2023-10-21 18:45:23,450 [MongoRepository.py:20] INFO: question 112304 was saved
+2023-10-21 18:45:23,450 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909005
+2023-10-21 18:45:23,453 [MongoRepository.py:20] INFO: question 63343 was saved
+2023-10-21 18:45:23,453 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909006
+2023-10-21 18:45:23,454 [MongoRepository.py:20] INFO: question 132511 was saved
+2023-10-21 18:45:23,454 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909007
+2023-10-21 18:45:23,455 [MongoRepository.py:20] INFO: question 30713 was saved
+2023-10-21 18:45:23,455 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909008
+2023-10-21 18:45:23,456 [MongoRepository.py:20] INFO: question 42889 was saved
+2023-10-21 18:45:23,456 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909009
+2023-10-21 18:45:23,457 [MongoRepository.py:20] INFO: question 87497 was saved
+2023-10-21 18:45:23,457 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900a
+2023-10-21 18:45:23,458 [MongoRepository.py:20] INFO: question 15122 was saved
+2023-10-21 18:45:23,458 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900b
+2023-10-21 18:45:23,459 [MongoRepository.py:20] INFO: question 10960 was saved
+2023-10-21 18:45:23,459 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900c
+2023-10-21 18:45:23,460 [MongoRepository.py:20] INFO: question 89699 was saved
+2023-10-21 18:45:23,460 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900d
+2023-10-21 18:45:23,461 [MongoRepository.py:20] INFO: question 131516 was saved
+2023-10-21 18:45:23,461 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900e
+2023-10-21 18:45:23,462 [MongoRepository.py:20] INFO: question 109058 was saved
+2023-10-21 18:45:23,462 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90900f
+2023-10-21 18:45:23,463 [MongoRepository.py:20] INFO: question 135062 was saved
+2023-10-21 18:45:23,463 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909010
+2023-10-21 18:45:23,464 [MongoRepository.py:20] INFO: question 158509 was saved
+2023-10-21 18:45:23,464 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909011
+2023-10-21 18:45:23,465 [MongoRepository.py:20] INFO: question 169765 was saved
+2023-10-21 18:45:23,465 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909012
+2023-10-21 18:45:23,466 [MongoRepository.py:20] INFO: question 48821 was saved
+2023-10-21 18:45:23,466 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909013
+2023-10-21 18:45:23,467 [MongoRepository.py:20] INFO: question 98186 was saved
+2023-10-21 18:45:23,467 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909014
+2023-10-21 18:45:23,468 [MongoRepository.py:20] INFO: question 52126 was saved
+2023-10-21 18:45:23,468 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909015
+2023-10-21 18:45:23,469 [MongoRepository.py:20] INFO: question 17228 was saved
+2023-10-21 18:45:23,469 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909016
+2023-10-21 18:45:23,470 [MongoRepository.py:20] INFO: question 99369 was saved
+2023-10-21 18:45:23,470 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909017
+2023-10-21 18:45:23,471 [MongoRepository.py:20] INFO: question 146965 was saved
+2023-10-21 18:45:23,471 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909018
+2023-10-21 18:45:23,471 [MongoRepository.py:20] INFO: question 153908 was saved
+2023-10-21 18:45:23,472 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909019
+2023-10-21 18:45:23,472 [MongoRepository.py:20] INFO: question 189499 was saved
+2023-10-21 18:45:23,472 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901a
+2023-10-21 18:45:23,473 [MongoRepository.py:20] INFO: question 180004 was saved
+2023-10-21 18:45:23,473 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901b
+2023-10-21 18:45:23,474 [MongoRepository.py:20] INFO: question 165398 was saved
+2023-10-21 18:45:23,474 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901c
+2023-10-21 18:45:23,475 [MongoRepository.py:20] INFO: question 81628 was saved
+2023-10-21 18:45:23,475 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901d
+2023-10-21 18:45:23,476 [MongoRepository.py:20] INFO: question 155973 was saved
+2023-10-21 18:45:23,477 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901e
+2023-10-21 18:45:23,477 [MongoRepository.py:20] INFO: question 82015 was saved
+2023-10-21 18:45:23,477 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90901f
+2023-10-21 18:45:23,478 [MongoRepository.py:20] INFO: question 120162 was saved
+2023-10-21 18:45:23,478 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909020
+2023-10-21 18:45:23,479 [MongoRepository.py:20] INFO: question 96649 was saved
+2023-10-21 18:45:23,479 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909021
+2023-10-21 18:45:23,480 [MongoRepository.py:20] INFO: question 68425 was saved
+2023-10-21 18:45:23,480 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909022
+2023-10-21 18:45:23,481 [MongoRepository.py:20] INFO: question 174932 was saved
+2023-10-21 18:45:23,481 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909023
+2023-10-21 18:45:23,482 [MongoRepository.py:20] INFO: question 146205 was saved
+2023-10-21 18:45:23,482 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909024
+2023-10-21 18:45:23,483 [MongoRepository.py:20] INFO: question 29836 was saved
+2023-10-21 18:45:23,483 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909025
+2023-10-21 18:45:23,484 [MongoRepository.py:20] INFO: question 59651 was saved
+2023-10-21 18:45:23,484 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909026
+2023-10-21 18:45:23,485 [MongoRepository.py:20] INFO: question 65951 was saved
+2023-10-21 18:45:23,485 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909027
+2023-10-21 18:45:23,486 [MongoRepository.py:20] INFO: question 174946 was saved
+2023-10-21 18:45:23,486 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909028
+2023-10-21 18:45:23,487 [MongoRepository.py:20] INFO: question 73076 was saved
+2023-10-21 18:45:23,487 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909029
+2023-10-21 18:45:23,488 [MongoRepository.py:20] INFO: question 6807 was saved
+2023-10-21 18:45:23,488 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902a
+2023-10-21 18:45:23,489 [MongoRepository.py:20] INFO: question 160041 was saved
+2023-10-21 18:45:23,489 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902b
+2023-10-21 18:45:23,490 [MongoRepository.py:20] INFO: question 209791 was saved
+2023-10-21 18:45:23,490 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902c
+2023-10-21 18:45:23,491 [MongoRepository.py:20] INFO: question 16321 was saved
+2023-10-21 18:45:23,491 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902d
+2023-10-21 18:45:23,492 [MongoRepository.py:20] INFO: question 27544 was saved
+2023-10-21 18:45:23,492 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902e
+2023-10-21 18:45:23,493 [MongoRepository.py:20] INFO: question 63873 was saved
+2023-10-21 18:45:23,493 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90902f
+2023-10-21 18:45:23,494 [MongoRepository.py:20] INFO: question 86738 was saved
+2023-10-21 18:45:23,494 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909030
+2023-10-21 18:45:23,495 [MongoRepository.py:20] INFO: question 87295 was saved
+2023-10-21 18:45:23,495 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909031
+2023-10-21 18:45:23,496 [MongoRepository.py:20] INFO: question 30008 was saved
+2023-10-21 18:45:23,496 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909032
+2023-10-21 18:45:23,497 [MongoRepository.py:20] INFO: question 24166 was saved
+2023-10-21 18:45:23,497 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909033
+2023-10-21 18:45:23,498 [MongoRepository.py:20] INFO: question 71974 was saved
+2023-10-21 18:45:23,498 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909034
+2023-10-21 18:45:23,499 [MongoRepository.py:20] INFO: question 147783 was saved
+2023-10-21 18:45:23,499 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909035
+2023-10-21 18:45:23,500 [MongoRepository.py:20] INFO: question 206891 was saved
+2023-10-21 18:45:23,501 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909036
+2023-10-21 18:45:23,502 [MongoRepository.py:20] INFO: question 196806 was saved
+2023-10-21 18:45:23,502 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909037
+2023-10-21 18:45:23,503 [MongoRepository.py:20] INFO: question 104880 was saved
+2023-10-21 18:45:23,503 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909038
+2023-10-21 18:45:23,504 [MongoRepository.py:20] INFO: question 125212 was saved
+2023-10-21 18:45:23,504 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909039
+2023-10-21 18:45:23,505 [MongoRepository.py:20] INFO: question 26684 was saved
+2023-10-21 18:45:23,506 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903a
+2023-10-21 18:45:23,506 [MongoRepository.py:20] INFO: question 43595 was saved
+2023-10-21 18:45:23,507 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903b
+2023-10-21 18:45:23,508 [MongoRepository.py:20] INFO: question 52826 was saved
+2023-10-21 18:45:23,508 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903c
+2023-10-21 18:45:23,509 [MongoRepository.py:20] INFO: question 142098 was saved
+2023-10-21 18:45:23,509 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903d
+2023-10-21 18:45:23,510 [MongoRepository.py:20] INFO: question 80086 was saved
+2023-10-21 18:45:23,510 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903e
+2023-10-21 18:45:23,511 [MongoRepository.py:20] INFO: question 141049 was saved
+2023-10-21 18:45:23,511 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90903f
+2023-10-21 18:45:23,512 [MongoRepository.py:20] INFO: question 70162 was saved
+2023-10-21 18:45:23,512 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909040
+2023-10-21 18:45:23,514 [MongoRepository.py:20] INFO: question 191522 was saved
+2023-10-21 18:45:23,514 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909041
+2023-10-21 18:45:23,515 [MongoRepository.py:20] INFO: question 146507 was saved
+2023-10-21 18:45:23,515 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909042
+2023-10-21 18:45:23,516 [MongoRepository.py:20] INFO: question 192121 was saved
+2023-10-21 18:45:23,516 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909043
+2023-10-21 18:45:23,517 [MongoRepository.py:20] INFO: question 152176 was saved
+2023-10-21 18:45:23,517 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909044
+2023-10-21 18:45:23,518 [MongoRepository.py:20] INFO: question 69021 was saved
+2023-10-21 18:45:23,518 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909045
+2023-10-21 18:45:23,519 [MongoRepository.py:20] INFO: question 11880 was saved
+2023-10-21 18:45:23,519 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909046
+2023-10-21 18:45:23,520 [MongoRepository.py:20] INFO: question 109442 was saved
+2023-10-21 18:45:23,520 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909047
+2023-10-21 18:45:23,521 [MongoRepository.py:20] INFO: question 8839 was saved
+2023-10-21 18:45:23,521 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909048
+2023-10-21 18:45:23,522 [MongoRepository.py:20] INFO: question 147612 was saved
+2023-10-21 18:45:23,522 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909049
+2023-10-21 18:45:23,524 [MongoRepository.py:20] INFO: question 192922 was saved
+2023-10-21 18:45:23,524 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904a
+2023-10-21 18:45:23,525 [MongoRepository.py:20] INFO: question 68489 was saved
+2023-10-21 18:45:23,525 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904b
+2023-10-21 18:45:23,526 [MongoRepository.py:20] INFO: question 129982 was saved
+2023-10-21 18:45:23,526 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904c
+2023-10-21 18:45:23,527 [MongoRepository.py:20] INFO: question 89651 was saved
+2023-10-21 18:45:23,527 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904d
+2023-10-21 18:45:23,528 [MongoRepository.py:20] INFO: question 192664 was saved
+2023-10-21 18:45:23,528 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904e
+2023-10-21 18:45:23,529 [MongoRepository.py:20] INFO: question 15806 was saved
+2023-10-21 18:45:23,529 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90904f
+2023-10-21 18:45:23,530 [MongoRepository.py:20] INFO: question 125109 was saved
+2023-10-21 18:45:23,530 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909050
+2023-10-21 18:45:23,531 [MongoRepository.py:20] INFO: question 70790 was saved
+2023-10-21 18:45:23,532 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909051
+2023-10-21 18:45:23,533 [MongoRepository.py:20] INFO: question 75228 was saved
+2023-10-21 18:45:23,533 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909052
+2023-10-21 18:45:23,534 [MongoRepository.py:20] INFO: question 181167 was saved
+2023-10-21 18:45:23,534 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909053
+2023-10-21 18:45:23,535 [MongoRepository.py:20] INFO: question 50155 was saved
+2023-10-21 18:45:23,535 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909054
+2023-10-21 18:45:23,536 [MongoRepository.py:20] INFO: question 2349 was saved
+2023-10-21 18:45:23,536 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909055
+2023-10-21 18:45:23,537 [MongoRepository.py:20] INFO: question 80516 was saved
+2023-10-21 18:45:23,537 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909056
+2023-10-21 18:45:23,538 [MongoRepository.py:20] INFO: question 105568 was saved
+2023-10-21 18:45:23,538 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909057
+2023-10-21 18:45:23,539 [MongoRepository.py:20] INFO: question 1153 was saved
+2023-10-21 18:45:23,539 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909058
+2023-10-21 18:45:23,539 [MongoRepository.py:20] INFO: question 220434 was saved
+2023-10-21 18:45:23,540 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909059
+2023-10-21 18:45:23,540 [MongoRepository.py:20] INFO: question 40618 was saved
+2023-10-21 18:45:23,541 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905a
+2023-10-21 18:45:23,542 [MongoRepository.py:20] INFO: question 170115 was saved
+2023-10-21 18:45:23,542 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905b
+2023-10-21 18:45:23,543 [MongoRepository.py:20] INFO: question 19833 was saved
+2023-10-21 18:45:23,543 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905c
+2023-10-21 18:45:23,544 [MongoRepository.py:20] INFO: question 101599 was saved
+2023-10-21 18:45:23,544 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905d
+2023-10-21 18:45:23,545 [MongoRepository.py:20] INFO: question 207517 was saved
+2023-10-21 18:45:23,545 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905e
+2023-10-21 18:45:23,546 [MongoRepository.py:20] INFO: question 91906 was saved
+2023-10-21 18:45:23,546 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc90905f
+2023-10-21 18:45:23,547 [MongoRepository.py:20] INFO: question 203311 was saved
+2023-10-21 18:45:23,547 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909060
+2023-10-21 18:45:23,548 [MongoRepository.py:20] INFO: question 138953 was saved
+2023-10-21 18:45:23,548 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909061
+2023-10-21 18:45:23,549 [MongoRepository.py:20] INFO: question 19928 was saved
+2023-10-21 18:45:23,549 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909062
+2023-10-21 18:45:23,550 [MongoRepository.py:20] INFO: question 53949 was saved
+2023-10-21 18:45:23,550 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909063
+2023-10-21 18:45:23,550 [MongoRepository.py:20] INFO: question 191183 was saved
+2023-10-21 18:45:23,550 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909064
+2023-10-21 18:45:23,551 [MongoRepository.py:20] INFO: question 150471 was saved
+2023-10-21 18:45:23,551 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909065
+2023-10-21 18:45:23,552 [MongoRepository.py:20] INFO: question 147586 was saved
+2023-10-21 18:45:23,552 [questionRequest.py:29] DEBUG: saveId: 65341c435d31b07bdc909066
+2023-10-21 18:46:49,922 [MongoRepository.py:20] INFO: question 7625 was saved
+2023-10-21 18:46:49,924 [MongoRepository.py:20] INFO: question 139061 was saved
+2023-10-21 18:46:49,926 [MongoRepository.py:20] INFO: question 158743 was saved
+2023-10-21 18:46:49,927 [MongoRepository.py:20] INFO: question 148873 was saved
+2023-10-21 18:46:49,928 [MongoRepository.py:20] INFO: question 151723 was saved
+2023-10-21 18:46:49,929 [MongoRepository.py:20] INFO: question 168212 was saved
+2023-10-21 18:46:49,930 [MongoRepository.py:20] INFO: question 118995 was saved
+2023-10-21 18:46:49,931 [MongoRepository.py:20] INFO: question 95938 was saved
+2023-10-21 18:46:49,932 [MongoRepository.py:20] INFO: question 83101 was saved
+2023-10-21 18:46:49,933 [MongoRepository.py:20] INFO: question 204208 was saved
+2023-10-21 18:46:49,934 [MongoRepository.py:20] INFO: question 68089 was saved
+2023-10-21 18:46:49,936 [MongoRepository.py:20] INFO: question 55009 was saved
+2023-10-21 18:46:49,937 [MongoRepository.py:20] INFO: question 169594 was saved
+2023-10-21 18:46:49,938 [MongoRepository.py:20] INFO: question 187185 was saved
+2023-10-21 18:46:49,940 [MongoRepository.py:20] INFO: question 48534 was saved
+2023-10-21 18:46:49,941 [MongoRepository.py:20] INFO: question 141800 was saved
+2023-10-21 18:46:49,942 [MongoRepository.py:20] INFO: question 162991 was saved
+2023-10-21 18:46:49,943 [MongoRepository.py:20] INFO: question 13083 was saved
+2023-10-21 18:46:49,944 [MongoRepository.py:20] INFO: question 21248 was saved
+2023-10-21 18:46:49,945 [MongoRepository.py:20] INFO: question 116705 was saved
+2023-10-21 18:46:49,946 [MongoRepository.py:20] INFO: question 120086 was saved
+2023-10-21 18:46:49,947 [MongoRepository.py:20] INFO: question 210413 was saved
+2023-10-21 18:46:49,948 [MongoRepository.py:20] INFO: question 194134 was saved
+2023-10-21 18:46:49,949 [MongoRepository.py:20] INFO: question 9454 was saved
+2023-10-21 18:46:49,950 [MongoRepository.py:20] INFO: question 99810 was saved
+2023-10-21 18:46:49,951 [MongoRepository.py:20] INFO: question 130005 was saved
+2023-10-21 18:46:49,952 [MongoRepository.py:20] INFO: question 160512 was saved
+2023-10-21 18:46:49,953 [MongoRepository.py:20] INFO: question 28928 was saved
+2023-10-21 18:46:49,954 [MongoRepository.py:20] INFO: question 39104 was saved
+2023-10-21 18:46:49,955 [MongoRepository.py:20] INFO: question 56530 was saved
+2023-10-21 18:46:49,956 [MongoRepository.py:20] INFO: question 70194 was saved
+2023-10-21 18:46:49,957 [MongoRepository.py:20] INFO: question 217131 was saved
+2023-10-21 18:46:49,958 [MongoRepository.py:20] INFO: question 199401 was saved
+2023-10-21 18:46:49,959 [MongoRepository.py:20] INFO: question 188509 was saved
+2023-10-21 18:46:49,960 [MongoRepository.py:20] INFO: question 160173 was saved
+2023-10-21 18:46:49,961 [MongoRepository.py:20] INFO: question 114101 was saved
+2023-10-21 18:46:49,962 [MongoRepository.py:20] INFO: question 156616 was saved
+2023-10-21 18:46:49,963 [MongoRepository.py:20] INFO: question 203114 was saved
+2023-10-21 18:46:49,964 [MongoRepository.py:20] INFO: question 30633 was saved
+2023-10-21 18:46:49,965 [MongoRepository.py:20] INFO: question 19602 was saved
+2023-10-21 18:46:49,966 [MongoRepository.py:20] INFO: question 39394 was saved
+2023-10-21 18:46:49,967 [MongoRepository.py:20] INFO: question 14536 was saved
+2023-10-21 18:46:49,968 [MongoRepository.py:20] INFO: question 169639 was saved
+2023-10-21 18:46:49,969 [MongoRepository.py:20] INFO: question 219326 was saved
+2023-10-21 18:46:49,970 [MongoRepository.py:20] INFO: question 82963 was saved
+2023-10-21 18:46:49,971 [MongoRepository.py:20] INFO: question 105353 was saved
+2023-10-21 18:46:49,972 [MongoRepository.py:20] INFO: question 22369 was saved
+2023-10-21 18:46:49,973 [MongoRepository.py:20] INFO: question 83273 was saved
+2023-10-21 18:46:49,974 [MongoRepository.py:20] INFO: question 198613 was saved
+2023-10-21 18:46:49,975 [MongoRepository.py:20] INFO: question 92894 was saved
+2023-10-21 18:46:49,976 [MongoRepository.py:20] INFO: question 93574 was saved
+2023-10-21 18:46:49,977 [MongoRepository.py:20] INFO: question 94254 was saved
+2023-10-21 18:46:49,978 [MongoRepository.py:20] INFO: question 170001 was saved
+2023-10-21 18:46:49,979 [MongoRepository.py:20] INFO: question 31075 was saved
+2023-10-21 18:46:49,979 [MongoRepository.py:20] INFO: question 157054 was saved
+2023-10-21 18:46:49,980 [MongoRepository.py:20] INFO: question 2047 was saved
+2023-10-21 18:46:49,981 [MongoRepository.py:20] INFO: question 203659 was saved
+2023-10-21 18:46:49,982 [MongoRepository.py:20] INFO: question 121790 was saved
+2023-10-21 18:46:49,983 [MongoRepository.py:20] INFO: question 153002 was saved
+2023-10-21 18:46:49,984 [MongoRepository.py:20] INFO: question 20837 was saved
+2023-10-21 18:46:49,985 [MongoRepository.py:20] INFO: question 97662 was saved
+2023-10-21 18:46:49,986 [MongoRepository.py:20] INFO: question 182603 was saved
+2023-10-21 18:46:49,987 [MongoRepository.py:20] INFO: question 191536 was saved
+2023-10-21 18:46:49,988 [MongoRepository.py:20] INFO: question 207016 was saved
+2023-10-21 18:46:49,989 [MongoRepository.py:20] INFO: question 178276 was saved
+2023-10-21 18:46:49,990 [MongoRepository.py:20] INFO: question 79857 was saved
+2023-10-21 18:46:49,991 [MongoRepository.py:20] INFO: question 200873 was saved
+2023-10-21 18:46:49,992 [MongoRepository.py:20] INFO: question 55386 was saved
+2023-10-21 18:46:49,993 [MongoRepository.py:20] INFO: question 109414 was saved
+2023-10-21 18:46:49,994 [MongoRepository.py:20] INFO: question 4597 was saved
+2023-10-21 18:46:49,995 [MongoRepository.py:20] INFO: question 141234 was saved
+2023-10-21 18:46:49,996 [MongoRepository.py:20] INFO: question 106907 was saved
+2023-10-21 18:46:49,997 [MongoRepository.py:20] INFO: question 59610 was saved
+2023-10-21 18:46:49,998 [MongoRepository.py:20] INFO: question 127385 was saved
+2023-10-21 18:46:49,999 [MongoRepository.py:20] INFO: question 30005 was saved
+2023-10-21 18:46:50,000 [MongoRepository.py:20] INFO: question 220458 was saved
+2023-10-21 18:46:50,001 [MongoRepository.py:20] INFO: question 27563 was saved
+2023-10-21 18:46:50,002 [MongoRepository.py:20] INFO: question 131702 was saved
+2023-10-21 18:46:50,003 [MongoRepository.py:20] INFO: question 71260 was saved
+2023-10-21 18:46:50,004 [MongoRepository.py:20] INFO: question 136432 was saved
+2023-10-21 18:46:50,005 [MongoRepository.py:20] INFO: question 166186 was saved
+2023-10-21 18:46:50,006 [MongoRepository.py:20] INFO: question 45398 was saved
+2023-10-21 18:46:50,007 [MongoRepository.py:20] INFO: question 146675 was saved
+2023-10-21 18:46:50,008 [MongoRepository.py:20] INFO: question 88779 was saved
+2023-10-21 18:46:50,009 [MongoRepository.py:20] INFO: question 121959 was saved
+2023-10-21 18:46:50,010 [MongoRepository.py:20] INFO: question 17793 was saved
+2023-10-21 18:46:50,011 [MongoRepository.py:20] INFO: question 6187 was saved
+2023-10-21 18:46:50,012 [MongoRepository.py:20] INFO: question 195438 was saved
+2023-10-21 18:46:50,013 [MongoRepository.py:20] INFO: question 209201 was saved
+2023-10-21 18:46:50,014 [MongoRepository.py:20] INFO: question 68329 was saved
+2023-10-21 18:46:50,015 [MongoRepository.py:20] INFO: question 38497 was saved
+2023-10-21 18:46:50,016 [MongoRepository.py:20] INFO: question 193182 was saved
+2023-10-21 18:46:50,017 [MongoRepository.py:20] INFO: question 148889 was saved
+2023-10-21 18:46:50,018 [MongoRepository.py:20] INFO: question 120588 was saved
+2023-10-21 18:46:50,019 [MongoRepository.py:20] INFO: question 68789 was saved
+2023-10-21 18:46:50,020 [MongoRepository.py:20] INFO: question 179126 was saved
+2023-10-21 18:46:50,021 [MongoRepository.py:20] INFO: question 92614 was saved
+2023-10-21 18:46:50,022 [MongoRepository.py:20] INFO: question 157639 was saved
+2023-10-21 18:46:50,022 [MongoRepository.py:20] INFO: question 214608 was saved
+2023-10-21 18:46:50,023 [MongoRepository.py:20] INFO: question 21569 was saved
+2023-10-21 18:48:41,662 [MongoRepository.py:20] INFO: question 173373 was saved
+2023-10-21 18:48:41,663 [MongoRepository.py:20] INFO: question 111707 was saved
+2023-10-21 18:48:41,664 [MongoRepository.py:20] INFO: question 87378 was saved
+2023-10-21 18:48:41,665 [MongoRepository.py:20] INFO: question 195371 was saved
+2023-10-21 18:48:41,666 [MongoRepository.py:20] INFO: question 151428 was saved
+2023-10-21 18:48:41,667 [MongoRepository.py:20] INFO: question 115098 was saved
+2023-10-21 18:48:41,668 [MongoRepository.py:20] INFO: question 203676 was saved
+2023-10-21 18:48:41,669 [MongoRepository.py:20] INFO: question 176224 was saved
+2023-10-21 18:48:41,671 [MongoRepository.py:20] INFO: question 185890 was saved
+2023-10-21 18:48:41,672 [MongoRepository.py:20] INFO: question 154825 was saved
+2023-10-21 18:48:41,674 [MongoRepository.py:20] INFO: question 184496 was saved
+2023-10-21 18:48:41,676 [MongoRepository.py:20] INFO: question 140200 was saved
+2023-10-21 18:48:41,678 [MongoRepository.py:20] INFO: question 102859 was saved
+2023-10-21 18:48:41,679 [MongoRepository.py:20] INFO: question 190266 was saved
+2023-10-21 18:48:41,681 [MongoRepository.py:20] INFO: question 28776 was saved
+2023-10-21 18:48:41,682 [MongoRepository.py:20] INFO: question 32895 was saved
+2023-10-21 18:48:41,684 [MongoRepository.py:20] INFO: question 6640 was saved
+2023-10-21 18:48:41,686 [MongoRepository.py:20] INFO: question 214989 was saved
+2023-10-21 18:48:41,688 [MongoRepository.py:20] INFO: question 207572 was saved
+2023-10-21 18:48:41,690 [MongoRepository.py:20] INFO: question 67033 was saved
+2023-10-21 18:48:41,692 [MongoRepository.py:20] INFO: question 105981 was saved
+2023-10-21 18:48:41,693 [MongoRepository.py:20] INFO: question 21995 was saved
+2023-10-21 18:48:41,695 [MongoRepository.py:20] INFO: question 109048 was saved
+2023-10-21 18:48:41,697 [MongoRepository.py:20] INFO: question 129562 was saved
+2023-10-21 18:48:41,698 [MongoRepository.py:20] INFO: question 45487 was saved
+2023-10-21 18:48:41,700 [MongoRepository.py:20] INFO: question 181799 was saved
+2023-10-21 18:48:41,701 [MongoRepository.py:20] INFO: question 34067 was saved
+2023-10-21 18:48:41,702 [MongoRepository.py:20] INFO: question 215723 was saved
+2023-10-21 18:48:41,703 [MongoRepository.py:20] INFO: question 55664 was saved
+2023-10-21 18:48:41,704 [MongoRepository.py:20] INFO: question 70357 was saved
+2023-10-21 18:48:41,706 [MongoRepository.py:20] INFO: question 137540 was saved
+2023-10-21 18:48:41,707 [MongoRepository.py:20] INFO: question 153229 was saved
+2023-10-21 18:48:41,709 [MongoRepository.py:20] INFO: question 193056 was saved
+2023-10-21 18:48:41,710 [MongoRepository.py:20] INFO: question 45311 was saved
+2023-10-21 18:48:41,711 [MongoRepository.py:20] INFO: question 2441 was saved
+2023-10-21 18:48:41,712 [MongoRepository.py:20] INFO: question 119799 was saved
+2023-10-21 18:48:41,713 [MongoRepository.py:20] INFO: question 197201 was saved
+2023-10-21 18:48:41,714 [MongoRepository.py:20] INFO: question 172730 was saved
+2023-10-21 18:48:41,715 [MongoRepository.py:20] INFO: question 165064 was saved
+2023-10-21 18:48:41,716 [MongoRepository.py:20] INFO: question 113084 was saved
+2023-10-21 18:48:41,717 [MongoRepository.py:20] INFO: question 183204 was saved
+2023-10-21 18:48:41,718 [MongoRepository.py:20] INFO: question 100650 was saved
+2023-10-21 18:48:41,719 [MongoRepository.py:20] INFO: question 47605 was saved
+2023-10-21 18:48:41,720 [MongoRepository.py:20] INFO: question 111692 was saved
+2023-10-21 18:48:41,721 [MongoRepository.py:20] INFO: question 188641 was saved
+2023-10-21 18:48:41,722 [MongoRepository.py:20] INFO: question 23814 was saved
+2023-10-21 18:48:41,723 [MongoRepository.py:20] INFO: question 22983 was saved
+2023-10-21 18:48:41,724 [MongoRepository.py:20] INFO: question 183939 was saved
+2023-10-21 18:48:41,725 [MongoRepository.py:20] INFO: question 104787 was saved
+2023-10-21 18:48:41,726 [MongoRepository.py:20] INFO: question 33357 was saved
+2023-10-21 18:48:41,727 [MongoRepository.py:20] INFO: question 191133 was saved
+2023-10-21 18:48:41,728 [MongoRepository.py:20] INFO: question 160351 was saved
+2023-10-21 18:48:41,729 [MongoRepository.py:20] INFO: question 6068 was saved
+2023-10-21 18:48:41,730 [MongoRepository.py:20] INFO: question 153080 was saved
+2023-10-21 18:48:41,731 [MongoRepository.py:20] INFO: question 92185 was saved
+2023-10-21 18:48:41,732 [MongoRepository.py:20] INFO: question 58879 was saved
+2023-10-21 18:48:41,733 [MongoRepository.py:20] INFO: question 7196 was saved
+2023-10-21 18:48:41,734 [MongoRepository.py:20] INFO: question 36436 was saved
+2023-10-21 18:48:41,735 [MongoRepository.py:20] INFO: question 46865 was saved
+2023-10-21 18:48:41,737 [MongoRepository.py:20] INFO: question 91909 was saved
+2023-10-21 18:48:41,738 [MongoRepository.py:20] INFO: question 42379 was saved
+2023-10-21 18:48:41,739 [MongoRepository.py:20] INFO: question 192222 was saved
+2023-10-21 18:48:41,740 [MongoRepository.py:20] INFO: question 79941 was saved
+2023-10-21 18:48:41,741 [MongoRepository.py:20] INFO: question 215732 was saved
+2023-10-21 18:48:41,742 [MongoRepository.py:20] INFO: question 171980 was saved
+2023-10-21 18:48:41,743 [MongoRepository.py:20] INFO: question 166465 was saved
+2023-10-21 18:48:41,744 [MongoRepository.py:20] INFO: question 181422 was saved
+2023-10-21 18:48:41,745 [MongoRepository.py:20] INFO: question 71397 was saved
+2023-10-21 18:48:41,746 [MongoRepository.py:20] INFO: question 178622 was saved
+2023-10-21 18:48:41,747 [MongoRepository.py:20] INFO: question 70794 was saved
+2023-10-21 18:48:41,748 [MongoRepository.py:20] INFO: question 181951 was saved
+2023-10-21 18:48:41,749 [MongoRepository.py:20] INFO: question 8774 was saved
+2023-10-21 18:48:41,750 [MongoRepository.py:20] INFO: question 118246 was saved
+2023-10-21 18:48:41,751 [MongoRepository.py:20] INFO: question 10797 was saved
+2023-10-21 18:48:41,752 [MongoRepository.py:20] INFO: question 57039 was saved
+2023-10-21 18:48:41,753 [MongoRepository.py:20] INFO: question 67361 was saved
+2023-10-21 18:48:41,754 [MongoRepository.py:20] INFO: question 167801 was saved
+2023-10-21 18:48:41,756 [MongoRepository.py:20] INFO: question 45019 was saved
+2023-10-21 18:48:41,757 [MongoRepository.py:20] INFO: question 164093 was saved
+2023-10-21 18:48:41,758 [MongoRepository.py:20] INFO: question 148116 was saved
+2023-10-21 18:48:41,759 [MongoRepository.py:20] INFO: question 74289 was saved
+2023-10-21 18:48:41,760 [MongoRepository.py:20] INFO: question 15077 was saved
+2023-10-21 18:48:41,761 [MongoRepository.py:20] INFO: question 5716 was saved
+2023-10-21 18:48:41,762 [MongoRepository.py:20] INFO: question 202904 was saved
+2023-10-21 18:48:41,763 [MongoRepository.py:20] INFO: question 176210 was saved
+2023-10-21 18:48:41,764 [MongoRepository.py:20] INFO: question 108074 was saved
+2023-10-21 18:48:41,765 [MongoRepository.py:20] INFO: question 115671 was saved
+2023-10-21 18:48:41,766 [MongoRepository.py:20] INFO: question 38755 was saved
+2023-10-21 18:48:41,767 [MongoRepository.py:20] INFO: question 9324 was saved
+2023-10-21 18:48:41,768 [MongoRepository.py:20] INFO: question 45011 was saved
+2023-10-21 18:48:41,769 [MongoRepository.py:20] INFO: question 52025 was saved
+2023-10-21 18:48:41,770 [MongoRepository.py:20] INFO: question 157626 was saved
+2023-10-21 18:48:41,771 [MongoRepository.py:20] INFO: question 165155 was saved
+2023-10-21 18:48:41,772 [MongoRepository.py:20] INFO: question 28185 was saved
+2023-10-21 18:48:41,773 [MongoRepository.py:20] INFO: question 157165 was saved
+2023-10-21 18:48:41,774 [MongoRepository.py:20] INFO: question 176561 was saved
+2023-10-21 18:48:41,775 [MongoRepository.py:20] INFO: question 212412 was saved
+2023-10-21 18:48:41,776 [MongoRepository.py:20] INFO: question 27362 was saved
+2023-10-21 18:48:41,777 [MongoRepository.py:20] INFO: question 77122 was saved
+2023-10-21 18:48:41,778 [MongoRepository.py:20] INFO: question 49185 was saved
+2023-10-21 18:49:21,700 [MongoRepository.py:20] INFO: question 114966 was saved
+2023-10-21 18:49:21,702 [MongoRepository.py:20] INFO: question 110426 was saved
+2023-10-21 18:49:21,704 [MongoRepository.py:20] INFO: question 180033 was saved
+2023-10-21 18:49:21,706 [MongoRepository.py:20] INFO: question 139552 was saved
+2023-10-21 18:49:21,708 [MongoRepository.py:20] INFO: question 191994 was saved
+2023-10-21 18:49:21,710 [MongoRepository.py:20] INFO: question 193928 was saved
+2023-10-21 18:49:21,712 [MongoRepository.py:20] INFO: question 58410 was saved
+2023-10-21 18:49:21,714 [MongoRepository.py:20] INFO: question 57967 was saved
+2023-10-21 18:49:21,715 [MongoRepository.py:20] INFO: question 149630 was saved
+2023-10-21 18:49:21,717 [MongoRepository.py:20] INFO: question 47267 was saved
+2023-10-21 18:49:21,719 [MongoRepository.py:20] INFO: question 11518 was saved
+2023-10-21 18:49:21,723 [MongoRepository.py:20] INFO: question 98475 was saved
+2023-10-21 18:49:21,725 [MongoRepository.py:20] INFO: question 143482 was saved
+2023-10-21 18:49:21,726 [MongoRepository.py:20] INFO: question 133593 was saved
+2023-10-21 18:49:21,728 [MongoRepository.py:20] INFO: question 55819 was saved
+2023-10-21 18:49:21,729 [MongoRepository.py:20] INFO: question 114293 was saved
+2023-10-21 18:49:21,731 [MongoRepository.py:20] INFO: question 213851 was saved
+2023-10-21 18:49:21,732 [MongoRepository.py:20] INFO: question 214665 was saved
+2023-10-21 18:49:21,733 [MongoRepository.py:20] INFO: question 190106 was saved
+2023-10-21 18:49:21,735 [MongoRepository.py:20] INFO: question 3602 was saved
+2023-10-21 18:49:21,736 [MongoRepository.py:20] INFO: question 120590 was saved
+2023-10-21 18:49:21,738 [MongoRepository.py:20] INFO: question 126106 was saved
+2023-10-21 18:49:21,739 [MongoRepository.py:20] INFO: question 23986 was saved
+2023-10-21 18:49:21,741 [MongoRepository.py:20] INFO: question 54463 was saved
+2023-10-21 18:49:21,742 [MongoRepository.py:20] INFO: question 216135 was saved
+2023-10-21 18:49:21,743 [MongoRepository.py:20] INFO: question 124982 was saved
+2023-10-21 18:49:21,744 [MongoRepository.py:20] INFO: question 221176 was saved
+2023-10-21 18:49:21,746 [MongoRepository.py:20] INFO: question 125244 was saved
+2023-10-21 18:49:21,747 [MongoRepository.py:20] INFO: question 59904 was saved
+2023-10-21 18:49:21,748 [MongoRepository.py:20] INFO: question 111986 was saved
+2023-10-21 18:49:21,750 [MongoRepository.py:20] INFO: question 85607 was saved
+2023-10-21 18:49:21,751 [MongoRepository.py:20] INFO: question 11464 was saved
+2023-10-21 18:49:21,752 [MongoRepository.py:20] INFO: question 179125 was saved
+2023-10-21 18:49:21,753 [MongoRepository.py:20] INFO: question 118694 was saved
+2023-10-21 18:49:21,754 [MongoRepository.py:20] INFO: question 69143 was saved
+2023-10-21 18:49:21,755 [MongoRepository.py:20] INFO: question 58539 was saved
+2023-10-21 18:49:21,756 [MongoRepository.py:20] INFO: question 114075 was saved
+2023-10-21 18:49:21,757 [MongoRepository.py:20] INFO: question 130046 was saved
+2023-10-21 18:49:21,758 [MongoRepository.py:20] INFO: question 4072 was saved
+2023-10-21 18:49:21,759 [MongoRepository.py:20] INFO: question 92031 was saved
+2023-10-21 18:49:21,760 [MongoRepository.py:20] INFO: question 149379 was saved
+2023-10-21 18:49:21,761 [MongoRepository.py:20] INFO: question 154571 was saved
+2023-10-21 18:49:21,762 [MongoRepository.py:20] INFO: question 43348 was saved
+2023-10-21 18:49:21,763 [MongoRepository.py:20] INFO: question 45507 was saved
+2023-10-21 18:49:21,764 [MongoRepository.py:20] INFO: question 72931 was saved
+2023-10-21 18:49:21,765 [MongoRepository.py:20] INFO: question 101904 was saved
+2023-10-21 18:49:21,766 [MongoRepository.py:20] INFO: question 159549 was saved
+2023-10-21 18:49:21,768 [MongoRepository.py:20] INFO: question 96938 was saved
+2023-10-21 18:49:21,769 [MongoRepository.py:20] INFO: question 124119 was saved
+2023-10-21 18:49:21,770 [MongoRepository.py:20] INFO: question 183725 was saved
+2023-10-21 18:49:21,771 [MongoRepository.py:20] INFO: question 80783 was saved
+2023-10-21 18:49:21,772 [MongoRepository.py:20] INFO: question 168 was saved
+2023-10-21 18:49:21,773 [MongoRepository.py:20] INFO: question 219871 was saved
+2023-10-21 18:49:21,774 [MongoRepository.py:20] INFO: question 89908 was saved
+2023-10-21 18:49:21,775 [MongoRepository.py:20] INFO: question 138187 was saved
+2023-10-21 18:49:21,776 [MongoRepository.py:20] INFO: question 219923 was saved
+2023-10-21 18:49:21,777 [MongoRepository.py:20] INFO: question 163001 was saved
+2023-10-21 18:49:21,779 [MongoRepository.py:20] INFO: question 202912 was saved
+2023-10-21 18:49:21,780 [MongoRepository.py:20] INFO: question 149511 was saved
+2023-10-21 18:49:21,781 [MongoRepository.py:20] INFO: question 52288 was saved
+2023-10-21 18:49:21,782 [MongoRepository.py:20] INFO: question 51585 was saved
+2023-10-21 18:49:21,783 [MongoRepository.py:20] INFO: question 177840 was saved
+2023-10-21 18:49:21,784 [MongoRepository.py:20] INFO: question 164418 was saved
+2023-10-21 18:49:21,785 [MongoRepository.py:20] INFO: question 58077 was saved
+2023-10-21 18:49:21,786 [MongoRepository.py:20] INFO: question 89865 was saved
+2023-10-21 18:49:21,788 [MongoRepository.py:20] INFO: question 18047 was saved
+2023-10-21 18:49:21,789 [MongoRepository.py:20] INFO: question 55545 was saved
+2023-10-21 18:49:21,790 [MongoRepository.py:20] INFO: question 20850 was saved
+2023-10-21 18:49:21,791 [MongoRepository.py:20] INFO: question 23572 was saved
+2023-10-21 18:49:21,792 [MongoRepository.py:20] INFO: question 14110 was saved
+2023-10-21 18:49:21,793 [MongoRepository.py:20] INFO: question 181905 was saved
+2023-10-21 18:49:21,794 [MongoRepository.py:20] INFO: question 94137 was saved
+2023-10-21 18:49:21,795 [MongoRepository.py:20] INFO: question 93337 was saved
+2023-10-21 18:49:21,797 [MongoRepository.py:20] INFO: question 195740 was saved
+2023-10-21 18:49:21,798 [MongoRepository.py:20] INFO: question 154625 was saved
+2023-10-21 18:49:21,799 [MongoRepository.py:20] INFO: question 124738 was saved
+2023-10-21 18:49:21,800 [MongoRepository.py:20] INFO: question 33492 was saved
+2023-10-21 18:49:21,801 [MongoRepository.py:20] INFO: question 124345 was saved
+2023-10-21 18:49:21,802 [MongoRepository.py:20] INFO: question 132 was saved
+2023-10-21 18:49:21,803 [MongoRepository.py:20] INFO: question 125310 was saved
+2023-10-21 18:49:21,804 [MongoRepository.py:20] INFO: question 123604 was saved
+2023-10-21 18:49:21,806 [MongoRepository.py:20] INFO: question 84085 was saved
+2023-10-21 18:49:21,807 [MongoRepository.py:20] INFO: question 77769 was saved
+2023-10-21 18:49:21,808 [MongoRepository.py:20] INFO: question 125396 was saved
+2023-10-21 18:49:21,809 [MongoRepository.py:20] INFO: question 123181 was saved
+2023-10-21 18:49:21,810 [MongoRepository.py:20] INFO: question 13698 was saved
+2023-10-21 18:49:21,811 [MongoRepository.py:20] INFO: question 47687 was saved
+2023-10-21 18:49:21,812 [MongoRepository.py:20] INFO: question 16051 was saved
+2023-10-21 18:49:21,814 [MongoRepository.py:20] INFO: question 191900 was saved
+2023-10-21 18:49:21,815 [MongoRepository.py:20] INFO: question 40335 was saved
+2023-10-21 18:49:21,816 [MongoRepository.py:20] INFO: question 50003 was saved
+2023-10-21 18:49:21,817 [MongoRepository.py:20] INFO: question 216381 was saved
+2023-10-21 18:49:21,818 [MongoRepository.py:20] INFO: question 104910 was saved
+2023-10-21 18:49:21,819 [MongoRepository.py:20] INFO: question 62514 was saved
+2023-10-21 18:49:21,820 [MongoRepository.py:20] INFO: question 12580 was saved
+2023-10-21 18:49:21,822 [MongoRepository.py:20] INFO: question 220719 was saved
+2023-10-21 18:49:21,823 [MongoRepository.py:20] INFO: question 157185 was saved
+2023-10-21 18:49:21,824 [MongoRepository.py:20] INFO: question 23276 was saved
+2023-10-21 18:49:21,825 [MongoRepository.py:20] INFO: question 94764 was saved
+2023-10-21 18:49:21,826 [MongoRepository.py:20] INFO: question 18642 was saved
+2023-10-21 18:49:29,787 [MongoRepository.py:20] INFO: question 211097 was saved
+2023-10-21 18:49:29,789 [MongoRepository.py:20] INFO: question 14343 was saved
+2023-10-21 18:49:29,791 [MongoRepository.py:20] INFO: question 203141 was saved
+2023-10-21 18:49:29,793 [MongoRepository.py:20] INFO: question 28520 was saved
+2023-10-21 18:49:29,795 [MongoRepository.py:20] INFO: question 93477 was saved
+2023-10-21 18:49:29,797 [MongoRepository.py:20] INFO: question 180676 was saved
+2023-10-21 18:49:29,798 [MongoRepository.py:20] INFO: question 164509 was saved
+2023-10-21 18:49:29,799 [MongoRepository.py:20] INFO: question 99936 was saved
+2023-10-21 18:49:29,801 [MongoRepository.py:20] INFO: question 215186 was saved
+2023-10-21 18:49:29,802 [MongoRepository.py:20] INFO: question 164071 was saved
+2023-10-21 18:49:29,803 [MongoRepository.py:20] INFO: question 143577 was saved
+2023-10-21 18:49:29,805 [MongoRepository.py:20] INFO: question 94062 was saved
+2023-10-21 18:49:29,806 [MongoRepository.py:20] INFO: question 188224 was saved
+2023-10-21 18:49:29,807 [MongoRepository.py:20] INFO: question 70271 was saved
+2023-10-21 18:49:29,809 [MongoRepository.py:20] INFO: question 220898 was saved
+2023-10-21 18:49:29,810 [MongoRepository.py:20] INFO: question 139121 was saved
+2023-10-21 18:49:29,811 [MongoRepository.py:20] INFO: question 72548 was saved
+2023-10-21 18:49:29,813 [MongoRepository.py:20] INFO: question 165570 was saved
+2023-10-21 18:49:29,814 [MongoRepository.py:20] INFO: question 91993 was saved
+2023-10-21 18:49:29,815 [MongoRepository.py:20] INFO: question 35998 was saved
+2023-10-21 18:49:29,817 [MongoRepository.py:20] INFO: question 46217 was saved
+2023-10-21 18:49:29,818 [MongoRepository.py:20] INFO: question 12314 was saved
+2023-10-21 18:49:29,819 [MongoRepository.py:20] INFO: question 20097 was saved
+2023-10-21 18:49:29,821 [MongoRepository.py:20] INFO: question 198594 was saved
+2023-10-21 18:49:29,822 [MongoRepository.py:20] INFO: question 40242 was saved
+2023-10-21 18:49:29,824 [MongoRepository.py:20] INFO: question 147621 was saved
+2023-10-21 18:49:29,825 [MongoRepository.py:20] INFO: question 120422 was saved
+2023-10-21 18:49:29,826 [MongoRepository.py:20] INFO: question 30788 was saved
+2023-10-21 18:49:29,828 [MongoRepository.py:20] INFO: question 102934 was saved
+2023-10-21 18:49:29,829 [MongoRepository.py:20] INFO: question 77977 was saved
+2023-10-21 18:49:29,830 [MongoRepository.py:20] INFO: question 63062 was saved
+2023-10-21 18:49:29,832 [MongoRepository.py:20] INFO: question 67808 was saved
+2023-10-21 18:49:29,833 [MongoRepository.py:20] INFO: question 128374 was saved
+2023-10-21 18:49:29,835 [MongoRepository.py:20] INFO: question 45959 was saved
+2023-10-21 18:49:29,836 [MongoRepository.py:20] INFO: question 120133 was saved
+2023-10-21 18:49:29,837 [MongoRepository.py:20] INFO: question 118806 was saved
+2023-10-21 18:49:29,839 [MongoRepository.py:20] INFO: question 148047 was saved
+2023-10-21 18:49:29,840 [MongoRepository.py:20] INFO: question 122484 was saved
+2023-10-21 18:49:29,841 [MongoRepository.py:20] INFO: question 161214 was saved
+2023-10-21 18:49:29,843 [MongoRepository.py:20] INFO: question 102360 was saved
+2023-10-21 18:49:29,844 [MongoRepository.py:20] INFO: question 68100 was saved
+2023-10-21 18:49:29,845 [MongoRepository.py:20] INFO: question 69518 was saved
+2023-10-21 18:49:29,847 [MongoRepository.py:20] INFO: question 67350 was saved
+2023-10-21 18:49:29,848 [MongoRepository.py:20] INFO: question 64870 was saved
+2023-10-21 18:49:29,850 [MongoRepository.py:20] INFO: question 174602 was saved
+2023-10-21 18:49:29,852 [MongoRepository.py:20] INFO: question 138849 was saved
+2023-10-21 18:49:29,853 [MongoRepository.py:20] INFO: question 116299 was saved
+2023-10-21 18:49:29,855 [MongoRepository.py:20] INFO: question 134846 was saved
+2023-10-21 18:49:29,857 [MongoRepository.py:20] INFO: question 212151 was saved
+2023-10-21 18:49:29,859 [MongoRepository.py:20] INFO: question 82438 was saved
+2023-10-21 18:49:29,861 [MongoRepository.py:20] INFO: question 58007 was saved
+2023-10-21 18:49:29,862 [MongoRepository.py:20] INFO: question 165920 was saved
+2023-10-21 18:49:29,864 [MongoRepository.py:20] INFO: question 86949 was saved
+2023-10-21 18:49:29,865 [MongoRepository.py:20] INFO: question 215409 was saved
+2023-10-21 18:49:29,866 [MongoRepository.py:20] INFO: question 209871 was saved
+2023-10-21 18:49:29,868 [MongoRepository.py:20] INFO: question 55661 was saved
+2023-10-21 18:49:29,869 [MongoRepository.py:20] INFO: question 216044 was saved
+2023-10-21 18:49:29,870 [MongoRepository.py:20] INFO: question 110967 was saved
+2023-10-21 18:49:29,872 [MongoRepository.py:20] INFO: question 187175 was saved
+2023-10-21 18:49:29,873 [MongoRepository.py:20] INFO: question 219169 was saved
+2023-10-21 18:49:29,874 [MongoRepository.py:20] INFO: question 138275 was saved
+2023-10-21 18:49:29,876 [MongoRepository.py:20] INFO: question 1630 was saved
+2023-10-21 18:49:29,877 [MongoRepository.py:20] INFO: question 68046 was saved
+2023-10-21 18:49:29,879 [MongoRepository.py:20] INFO: question 195998 was saved
+2023-10-21 18:49:29,880 [MongoRepository.py:20] INFO: question 173354 was saved
+2023-10-21 18:49:29,882 [MongoRepository.py:20] INFO: question 204202 was saved
+2023-10-21 18:49:29,883 [MongoRepository.py:20] INFO: question 116467 was saved
+2023-10-21 18:49:29,884 [MongoRepository.py:20] INFO: question 81707 was saved
+2023-10-21 18:49:29,886 [MongoRepository.py:20] INFO: question 71677 was saved
+2023-10-21 18:49:29,887 [MongoRepository.py:20] INFO: question 185309 was saved
+2023-10-21 18:49:29,889 [MongoRepository.py:20] INFO: question 119386 was saved
+2023-10-21 18:49:29,890 [MongoRepository.py:20] INFO: question 65087 was saved
+2023-10-21 18:49:29,892 [MongoRepository.py:20] INFO: question 137280 was saved
+2023-10-21 18:49:29,893 [MongoRepository.py:20] INFO: question 49161 was saved
+2023-10-21 18:49:29,894 [MongoRepository.py:20] INFO: question 27468 was saved
+2023-10-21 18:49:29,896 [MongoRepository.py:20] INFO: question 53830 was saved
+2023-10-21 18:49:29,897 [MongoRepository.py:20] INFO: question 92059 was saved
+2023-10-21 18:49:29,898 [MongoRepository.py:20] INFO: question 125223 was saved
+2023-10-21 18:49:29,900 [MongoRepository.py:20] INFO: question 152491 was saved
+2023-10-21 18:49:29,901 [MongoRepository.py:20] INFO: question 54956 was saved
+2023-10-21 18:49:29,902 [MongoRepository.py:20] INFO: question 208350 was saved
+2023-10-21 18:49:29,904 [MongoRepository.py:20] INFO: question 177838 was saved
+2023-10-21 18:49:29,905 [MongoRepository.py:20] INFO: question 88598 was saved
+2023-10-21 18:49:29,907 [MongoRepository.py:20] INFO: question 94104 was saved
+2023-10-21 18:49:29,908 [MongoRepository.py:20] INFO: question 15036 was saved
+2023-10-21 18:49:29,909 [MongoRepository.py:20] INFO: question 153352 was saved
+2023-10-21 18:49:29,911 [MongoRepository.py:20] INFO: question 153699 was saved
+2023-10-21 18:49:29,912 [MongoRepository.py:20] INFO: question 137872 was saved
+2023-10-21 18:49:29,914 [MongoRepository.py:20] INFO: question 122562 was saved
+2023-10-21 18:49:29,915 [MongoRepository.py:20] INFO: question 95424 was saved
+2023-10-21 18:49:29,916 [MongoRepository.py:20] INFO: question 213348 was saved
+2023-10-21 18:49:29,918 [MongoRepository.py:20] INFO: question 60484 was saved
+2023-10-21 18:49:29,919 [MongoRepository.py:20] INFO: question 31229 was saved
+2023-10-21 18:49:29,920 [MongoRepository.py:20] INFO: question 190699 was saved
+2023-10-21 18:49:29,921 [MongoRepository.py:20] INFO: question 44909 was saved
+2023-10-21 18:49:29,922 [MongoRepository.py:20] INFO: question 21011 was saved
+2023-10-21 18:49:29,924 [MongoRepository.py:20] INFO: question 48030 was saved
+2023-10-21 18:49:29,925 [MongoRepository.py:20] INFO: question 205200 was saved
+2023-10-21 18:49:29,926 [MongoRepository.py:20] INFO: question 111257 was saved
+2023-10-21 18:49:29,927 [MongoRepository.py:20] INFO: question 63327 was saved
+2023-10-21 18:49:36,452 [MongoRepository.py:20] INFO: question 209934 was saved
+2023-10-21 18:49:36,453 [MongoRepository.py:20] INFO: question 141374 was saved
+2023-10-21 18:49:36,454 [MongoRepository.py:20] INFO: question 209253 was saved
+2023-10-21 18:49:36,455 [MongoRepository.py:20] INFO: question 94097 was saved
+2023-10-21 18:49:36,456 [MongoRepository.py:20] INFO: question 180873 was saved
+2023-10-21 18:49:36,457 [MongoRepository.py:20] INFO: question 164597 was saved
+2023-10-21 18:49:36,458 [MongoRepository.py:20] INFO: question 41964 was saved
+2023-10-21 18:49:36,460 [MongoRepository.py:20] INFO: question 198853 was saved
+2023-10-21 18:49:36,461 [MongoRepository.py:20] INFO: question 178859 was saved
+2023-10-21 18:49:36,462 [MongoRepository.py:20] INFO: question 30246 was saved
+2023-10-21 18:49:36,463 [MongoRepository.py:20] INFO: question 210771 was saved
+2023-10-21 18:49:36,464 [MongoRepository.py:20] INFO: question 80281 was saved
+2023-10-21 18:49:36,465 [MongoRepository.py:20] INFO: question 16389 was saved
+2023-10-21 18:49:36,466 [MongoRepository.py:20] INFO: question 158068 was saved
+2023-10-21 18:49:36,468 [MongoRepository.py:20] INFO: question 17166 was saved
+2023-10-21 18:49:36,469 [MongoRepository.py:20] INFO: question 120879 was saved
+2023-10-21 18:49:36,470 [MongoRepository.py:20] INFO: question 125127 was saved
+2023-10-21 18:49:36,471 [MongoRepository.py:20] INFO: question 3727 was saved
+2023-10-21 18:49:36,473 [MongoRepository.py:20] INFO: question 8310 was saved
+2023-10-21 18:49:36,474 [MongoRepository.py:20] INFO: question 54577 was saved
+2023-10-21 18:49:36,475 [MongoRepository.py:20] INFO: question 75951 was saved
+2023-10-21 18:49:36,477 [MongoRepository.py:20] INFO: question 182407 was saved
+2023-10-21 18:49:36,478 [MongoRepository.py:20] INFO: question 116257 was saved
+2023-10-21 18:49:36,480 [MongoRepository.py:20] INFO: question 217452 was saved
+2023-10-21 18:49:36,481 [MongoRepository.py:20] INFO: question 45593 was saved
+2023-10-21 18:49:36,483 [MongoRepository.py:20] INFO: question 204203 was saved
+2023-10-21 18:49:36,484 [MongoRepository.py:20] INFO: question 118110 was saved
+2023-10-21 18:49:36,485 [MongoRepository.py:20] INFO: question 91433 was saved
+2023-10-21 18:49:36,487 [MongoRepository.py:20] INFO: question 157707 was saved
+2023-10-21 18:49:36,488 [MongoRepository.py:20] INFO: question 34639 was saved
+2023-10-21 18:49:36,490 [MongoRepository.py:20] INFO: question 187862 was saved
+2023-10-21 18:49:36,491 [MongoRepository.py:20] INFO: question 85546 was saved
+2023-10-21 18:49:36,492 [MongoRepository.py:20] INFO: question 65599 was saved
+2023-10-21 18:49:36,493 [MongoRepository.py:20] INFO: question 165694 was saved
+2023-10-21 18:49:36,495 [MongoRepository.py:20] INFO: question 97526 was saved
+2023-10-21 18:49:36,496 [MongoRepository.py:20] INFO: question 6358 was saved
+2023-10-21 18:49:36,497 [MongoRepository.py:20] INFO: question 5069 was saved
+2023-10-21 18:49:36,498 [MongoRepository.py:20] INFO: question 190628 was saved
+2023-10-21 18:49:36,499 [MongoRepository.py:20] INFO: question 36506 was saved
+2023-10-21 18:49:36,501 [MongoRepository.py:20] INFO: question 145102 was saved
+2023-10-21 18:49:36,502 [MongoRepository.py:20] INFO: question 193258 was saved
+2023-10-21 18:49:36,503 [MongoRepository.py:20] INFO: question 23904 was saved
+2023-10-21 18:49:36,504 [MongoRepository.py:20] INFO: question 83604 was saved
+2023-10-21 18:49:36,505 [MongoRepository.py:20] INFO: question 180656 was saved
+2023-10-21 18:49:36,507 [MongoRepository.py:20] INFO: question 57212 was saved
+2023-10-21 18:49:36,508 [MongoRepository.py:20] INFO: question 173825 was saved
+2023-10-21 18:49:36,509 [MongoRepository.py:20] INFO: question 47197 was saved
+2023-10-21 18:49:36,510 [MongoRepository.py:20] INFO: question 73242 was saved
+2023-10-21 18:49:36,511 [MongoRepository.py:20] INFO: question 63230 was saved
+2023-10-21 18:49:36,512 [MongoRepository.py:20] INFO: question 9021 was saved
+2023-10-21 18:49:36,514 [MongoRepository.py:20] INFO: question 51450 was saved
+2023-10-21 18:49:36,515 [MongoRepository.py:20] INFO: question 188846 was saved
+2023-10-21 18:49:36,516 [MongoRepository.py:20] INFO: question 94317 was saved
+2023-10-21 18:49:36,517 [MongoRepository.py:20] INFO: question 25595 was saved
+2023-10-21 18:49:36,518 [MongoRepository.py:20] INFO: question 97997 was saved
+2023-10-21 18:49:36,519 [MongoRepository.py:20] INFO: question 84741 was saved
+2023-10-21 18:49:36,520 [MongoRepository.py:20] INFO: question 35032 was saved
+2023-10-21 18:49:36,522 [MongoRepository.py:20] INFO: question 11573 was saved
+2023-10-21 18:49:36,523 [MongoRepository.py:20] INFO: question 46770 was saved
+2023-10-21 18:49:36,524 [MongoRepository.py:20] INFO: question 22001 was saved
+2023-10-21 18:49:36,525 [MongoRepository.py:20] INFO: question 59196 was saved
+2023-10-21 18:49:36,526 [MongoRepository.py:20] INFO: question 169259 was saved
+2023-10-21 18:49:36,527 [MongoRepository.py:20] INFO: question 131718 was saved
+2023-10-21 18:49:36,529 [MongoRepository.py:20] INFO: question 27118 was saved
+2023-10-21 18:49:36,530 [MongoRepository.py:20] INFO: question 4324 was saved
+2023-10-21 18:49:36,531 [MongoRepository.py:20] INFO: question 103315 was saved
+2023-10-21 18:49:36,533 [MongoRepository.py:20] INFO: question 101687 was saved
+2023-10-21 18:49:36,534 [MongoRepository.py:20] INFO: question 102526 was saved
+2023-10-21 18:49:36,535 [MongoRepository.py:20] INFO: question 18433 was saved
+2023-10-21 18:49:36,536 [MongoRepository.py:20] INFO: question 86749 was saved
+2023-10-21 18:49:36,538 [MongoRepository.py:20] INFO: question 54385 was saved
+2023-10-21 18:49:36,539 [MongoRepository.py:20] INFO: question 30480 was saved
+2023-10-21 18:49:36,540 [MongoRepository.py:20] INFO: question 134370 was saved
+2023-10-21 18:49:36,541 [MongoRepository.py:20] INFO: question 136052 was saved
+2023-10-21 18:49:36,542 [MongoRepository.py:20] INFO: question 81980 was saved
+2023-10-21 18:49:36,544 [MongoRepository.py:20] INFO: question 5928 was saved
+2023-10-21 18:49:36,545 [MongoRepository.py:20] INFO: question 212151 was saved
+2023-10-21 18:49:36,546 [MongoRepository.py:20] INFO: question 14687 was saved
+2023-10-21 18:49:36,547 [MongoRepository.py:20] INFO: question 18561 was saved
+2023-10-21 18:49:36,548 [MongoRepository.py:20] INFO: question 164526 was saved
+2023-10-21 18:49:36,549 [MongoRepository.py:20] INFO: question 206867 was saved
+2023-10-21 18:49:36,551 [MongoRepository.py:20] INFO: question 51472 was saved
+2023-10-21 18:49:36,552 [MongoRepository.py:20] INFO: question 149594 was saved
+2023-10-21 18:49:36,553 [MongoRepository.py:20] INFO: question 182154 was saved
+2023-10-21 18:49:36,554 [MongoRepository.py:20] INFO: question 32065 was saved
+2023-10-21 18:49:36,555 [MongoRepository.py:20] INFO: question 176966 was saved
+2023-10-21 18:49:36,556 [MongoRepository.py:20] INFO: question 155370 was saved
+2023-10-21 18:49:36,557 [MongoRepository.py:20] INFO: question 212403 was saved
+2023-10-21 18:49:36,558 [MongoRepository.py:20] INFO: question 179396 was saved
+2023-10-21 18:49:36,560 [MongoRepository.py:20] INFO: question 145467 was saved
+2023-10-21 18:49:36,561 [MongoRepository.py:20] INFO: question 56331 was saved
+2023-10-21 18:49:36,562 [MongoRepository.py:20] INFO: question 185049 was saved
+2023-10-21 18:49:36,563 [MongoRepository.py:20] INFO: question 42218 was saved
+2023-10-21 18:49:36,564 [MongoRepository.py:20] INFO: question 152969 was saved
+2023-10-21 18:49:36,566 [MongoRepository.py:20] INFO: question 204579 was saved
+2023-10-21 18:49:36,567 [MongoRepository.py:20] INFO: question 35525 was saved
+2023-10-21 18:49:36,569 [MongoRepository.py:20] INFO: question 122708 was saved
+2023-10-21 18:49:36,570 [MongoRepository.py:20] INFO: question 148555 was saved
+2023-10-21 18:49:36,572 [MongoRepository.py:20] INFO: question 37739 was saved
+2023-10-21 18:49:36,573 [MongoRepository.py:20] INFO: question 24867 was saved
+2023-10-21 18:53:33,428 [questionRequest.py:20] WARNING: You did not get any questions: status - 500 
+ url - https://jservice.io/api/random?count=-1
+2023-10-21 18:56:02,132 [MongoRepository.py:20] INFO: question 137480 was saved

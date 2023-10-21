@@ -9,9 +9,12 @@ questionService = QuestionService()
 
 @router.post("/question/")
 async def sendQuestionNum(question_data: InputData):
+    question = {}
     question_num = str(question_data.question_num)
     questions = await questionService.getQuestions(question_num)
     if questions:
-        await questionService.saveQuestions(questions)
-    return {"questions":f"{questions}"}
+        question = await questionService.saveQuestions(questions)
+    if question == {}:
+        return {}
+    return {"question":f"{question['question']}"}
 

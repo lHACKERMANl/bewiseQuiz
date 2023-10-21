@@ -22,7 +22,7 @@ handlers:
     
 loggers:
   debugging:
-    level: DEBUG
+    level: INFO
     handlers: [file_handler, console_handler, console]  
     propagate: no
 
